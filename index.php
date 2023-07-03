@@ -1,4 +1,5 @@
-<?php include("header.php");?>
+<?php include("header.php"); ?>
+
 <body class="home page-template page-template-front-page page-template-front-page-php page page-id-7 theme-helideck_theme woocommerce-no-js ">
 
     <!-- Google Tag Manager (noscript) -->
@@ -214,6 +215,175 @@
                 </ul>
             </div>
         </div>
+
+
+
+        <!-- contact -->
+        <div class="hero px-container bg-blue">
+            <div class="container">
+                <div class="hero-main">
+                    <div class="hero-subheading animate-text" data-splitting>Get in touch today</div>
+                    <h1 class="hero-heading animate-text" data-splitting>Contact</h1>
+                    <a class="contact-hero-scroll fade-in-item" href="#scrollTarget">
+                        <div class="icon">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
+                                <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#FFF" stroke-miterlimit="10" stroke-width="0.561" />
+                            </svg>
+                            <span class="material-icons">arrow_forward_ios</span>
+                        </div>
+                        <span class="text">Looking for staff contacts?</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="contact-main px-container bg-body">
+            <div class="container">
+                <div class="row no-gutters">
+                    <div class="col-lg-4">
+                        <div class="contact-boxes">
+                            <div class="contact-boxes-item fade-in-item">
+                                <div class="contact-box">
+                                    <h2 class="contact-box-heading">Find us</h2>
+                                    <div class="address">
+                                        <div class="address-line">Q3-187, PO Box 8337,<br>
+                                            Sharjah Airport Free Zone,<br>
+                                            Sharjah, United Arab Emirates</div>
+                                    </div>
+                                    <ul class="contact-details-links">
+                                        <li>
+                                            <a href="https://goo.gl/maps/VWYEGZ1KS29ydrdh6" target="_blank">
+                                                <span class="material-icons">place</span>
+                                                <span class="text">View on maps</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="contact-boxes-item fade-in-item">
+                                <div class="contact-box">
+                                    <h2 class="contact-box-heading">Contact</h2>
+                                    <ul class="contact-details-links">
+                                        <li>
+                                            <a href="Javascript:void(0)">
+                                                <span class="material-icons">contacts</span>
+                                                <span class="text">Mr. Renjithraj Raju<br>
+                                                    ASNT Level III<br>
+                                                    ISO 50001 Energy Management Lead Auditor<br>
+                                                    Manager [ Aviation, PMS, Environmental ]</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="tel:+971 50 9638995">
+                                                <span class="material-icons">phone</span>
+                                                <span class="text">+971 50 9638995</span>
+                                            </a>
+                                            <a href="tel:+971 6 5503300">
+                                                <span class="material-icons">phone</span>
+                                                <span class="text">+971 6 5503300</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-7 offset-lg-1">
+                        <form class="contact-form fade-in-item validate" autocomplete="off">
+                            <input type="hidden" name="formEmail" value="info@helidecks.org">
+                            <input type="hidden" name="subject" value="Helideck contact">
+                            <input class="required" type="text" id="name" name="name" placeholder="Name">
+                            <input class="required" type="email" id="email" name="email" placeholder="Email">
+                            <input class="required" type="text" id="phone" name="phone" placeholder="Telephone">
+
+                            <div>
+                                <label for="ic">
+                                    <div class="text" style="color:#6c757d;">Enquiry</div>
+                                </label>
+
+                                <div style="padding-left:80px">
+                                    <div class="checkbox-item scroll-fade-in">
+                                        <input class="required" name="enquiry" type="checkbox" id="ic">
+                                        <label for="ic">
+                                            <div class="checkbox"></div>
+                                            <div class="text">Inspection & Certification</div>
+                                        </label>
+                                    </div>
+
+                                    <div class="checkbox-item scroll-fade-in">
+                                        <input class="required" name="enquiry" type="checkbox" id="ft">
+                                        <label for="ft">
+                                            <div class="checkbox"></div>
+                                            <div class="text">Friction Testing</div>
+                                        </label>
+                                    </div>
+
+                                    <div class="checkbox-item scroll-fade-in">
+                                        <input class="required" name="enquiry" type="checkbox" id="tc">
+                                        <label for="tc">
+                                            <div class="checkbox"></div>
+                                            <div class="text">Training & Competency</div>
+                                        </label>
+                                    </div>
+
+                                    <div class="checkbox-item scroll-fade-in">
+                                        <input class="required" name="enquiry" type="checkbox" id=dgaae>
+                                        <label for="dgaae">
+                                            <div class="checkbox"></div>
+                                            <div class="text">Dangerous Goods by Air Awareness ELearning</div>
+                                        </label>
+                                    </div>
+
+                                    <div class="checkbox-item scroll-fade-in">
+                                        <input class="required" name="enquiry" type="checkbox" id="sy">
+                                        <label for="sy">
+                                            <div class="checkbox"></div>
+                                            <div class="text">Super Yachts</div>
+                                        </label>
+                                    </div>
+
+                                    <div class="checkbox-item scroll-fade-in">
+                                        <input class="required" name="enquiry" type="checkbox" id="cons">
+                                        <label for="cons">
+                                            <div class="checkbox"></div>
+                                            <div class="text">Consultancy</div>
+                                        </label>
+                                    </div>
+
+                                    <div class="checkbox-item scroll-fade-in">
+                                        <input class="required" name="enquiry" type="checkbox" id="other">
+                                        <label for="other">
+                                            <div class="checkbox"></div>
+                                            <div class="text">Other</div>
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <textarea class="required" id="message" name="message" placeholder="Message"></textarea>
+                            <div class="checkbox-item scroll-fade-in">
+                                <input class="required" name="terms" type="checkbox" id="checkbox1">
+                                <label for="checkbox1">
+                                    <div class="checkbox"></div>
+                                    <div class="text">
+                                        <p>By ticking this box you agree to the use of your personal information in our
+                                            provision of services to you. Please see our <a class="c-link" href="../privacy/index.html" target="_blank" rel="noopener noreferrer" data-stringify-link="https://www.savills.co.uk/footer/privacy-policy.aspx" data-sk="tooltip_parent">Privacy Notice </a>for details of how your
+                                            personal information will be used.</p>
+                                    </div>
+                                </label>
+                            </div>
+                            <button class="submit-btn">Send enquiry</button>
+                            <h3 class="form-message">Thank you for contacting Helideck! We will be in touch with you
+                                shortly.</h3>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end contact -->
+
+
+
         <div class="px-container pt-lg bg-body">
             <div class="container text-lg-center">
                 <div class="row justify-content-lg-center">
@@ -613,4 +783,4 @@
         </div>
 
 
-        <?php include("footer.php");?>
+        <?php include("footer.php"); ?>
