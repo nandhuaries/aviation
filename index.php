@@ -176,7 +176,7 @@
                         <a class="sectors-listings-item" href="sectors/index.html#post-106">
                             <div class="content">
                                 <div class="content-top">
-                                    <h3 class="heading-md">Onshore</h3>
+                                    <h3 class="heading-md">Drone Inspections</h3>
                                 </div>
                                 <div class="arrow-link arrow-link-white">
                                     <div class="icon">
@@ -188,10 +188,10 @@
                                     <span class="text">Find out more</span>
                                 </div>
                             </div>
-                            <div class="image" style="background-image:url('wp-content/uploads/2021/07/onshore-preview.jpg');"></div>
+                            <div class="image" style="background-image:url('our-images/services/service3.jpg');"></div>
                         </a>
                     </li>
-                    <li>
+                    <!-- <li>
                         <a class="sectors-listings-item" href="sectors/index.html#post-107">
                             <div class="content">
                                 <div class="content-top">
@@ -210,7 +210,7 @@
                             <div class="image" style="background-image:url('wp-content/uploads/2021/07/Yacht.jpg');">
                             </div>
                         </a>
-                    </li>
+                    </li> -->
                 </ul>
             </div>
         </div>
