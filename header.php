@@ -71,23 +71,23 @@
     <![endif]-->
 
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="wp-content/themes/helideck_theme/favicon.ico">
-    <link rel="apple-touch-icon" href="wp-content/themes/helideck_theme/assets/img/favicon/apple-touch-icon.html">
-    <link rel="apple-touch-icon" sizes="72x72" href="wp-content/themes/helideck_theme/assets/img/favicon/apple-touch-icon-72x72.html">
-    <link rel="apple-touch-icon" sizes="114x114" href="wp-content/themes/helideck_theme/assets/img/favicon/apple-touch-icon-114x114.html">
-    <link rel="apple-touch-icon" sizes="57x57" href="wp-content/themes/helideck_theme/assets/img/favicon/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="wp-content/themes/helideck_theme/assets/img/favicon/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="wp-content/themes/helideck_theme/assets/img/favicon/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="wp-content/themes/helideck_theme/assets/img/favicon/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="wp-content/themes/helideck_theme/assets/img/favicon/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="wp-content/themes/helideck_theme/assets/img/favicon/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="wp-content/themes/helideck_theme/assets/img/favicon/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="wp-content/themes/helideck_theme/assets/img/favicon/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="wp-content/themes/helideck_theme/assets/img/favicon/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="wp-content/themes/helideck_theme/assets/img/favicon/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="wp-content/themes/helideck_theme/assets/img/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="wp-content/themes/helideck_theme/assets/img/favicon/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="wp-content/themes/helideck_theme/assets/img/favicon/favicon-16x16.png">
+    <link rel="icon" type="image/x-icon" href="our-images/favicon.png">
+    <link rel="apple-touch-icon" href="our-images/favicon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="our-images/favicon.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="our-images/favicon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="our-images/favicon.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="our-images/favicon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="our-images/favicon.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="our-images/favicon.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="our-images/favicon.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="our-images/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="our-images/favicon.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="our-images/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="our-images/favicon.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="our-images/favicon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="our-images/favicon.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="our-images/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="our-images/favicon.png">
 
     <!-- CSS styles -->
     <link href="wp-content/themes/helideck_theme/style.css" rel="stylesheet">
@@ -109,21 +109,21 @@
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
     <!-- This site is optimized with the Yoast SEO plugin v20.6 - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>Helideck Professionals | Offshore &amp; Onshore Services | HCA</title>
-    <meta name="description" content="Specialising in helideck inspection and certification, consultancy, training &amp; more, HCA is the premier service provider for offshore &amp; onshore helidecks." />
-    <link rel="canonical" href="index.html" />
+    <title>Aries Aviation Services</title>
+    <meta name="description" content="" />
+    <link rel="canonical" href="index.php" />
     <meta property="og:locale" content="en_GB" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Helideck Professionals | Offshore &amp; Onshore Services | HCA" />
-    <meta property="og:description" content="Specialising in helideck inspection and certification, consultancy, training &amp; more, HCA is the premier service provider for offshore &amp; onshore helidecks." />
-    <meta property="og:url" content="https://www.helidecks.org/" />
-    <meta property="og:site_name" content="Helideck Certification Agency Ltd" />
+    <meta property="og:title" content="Aries Aviation Services" />
+    <meta property="og:description" content="" />
+    <meta property="og:url" content="https://www.ariesaviationservices.com/" />
+    <meta property="og:site_name" content="Aries Aviation Services" />
     <meta property="article:modified_time" content="2022-12-13T09:48:55+00:00" />
-    <meta property="og:image" content="https://www.helidecks.org/wp-content/uploads/2021/07/img-social-card.jpg" />
+    <!-- <meta property="og:image" content="https://www.helidecks.org/wp-content/uploads/2021/07/img-social-card.jpg" /> -->
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/jpeg" />
-    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:card" content="" />
     <script type="application/ld+json" class="yoast-schema-graph">
         {
             "@context": "https://schema.org",
