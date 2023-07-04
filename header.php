@@ -8,7 +8,7 @@
 <!--[if (gte IE 9)|!(IE)]><!-->
 <html lang="en"> <!--<![endif]-->
 
-<!-- Mirrored from www.helidecks.org/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 Jun 2023 14:26:21 GMT -->
+
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 
@@ -19,7 +19,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-B2975VQ6PK"></script>
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-B2975VQ6PK"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -29,7 +29,7 @@
         gtag('js', new Date());
 
         gtag('config', 'G-B2975VQ6PK');
-    </script>
+    </script> -->
     <!--
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">

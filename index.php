@@ -10,10 +10,10 @@
         <div class="site-menu">
             <nav>
                 <ul id="menu-responsive-menu" class="site-menu-nav-primary">
-                    <li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a title="About" href="#">Home</a></li>
-                    <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a title="Sectors" href="#">About</a></li>
-                    <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a title="Sectors" href="#">service</a></li>
-                    <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a title="Sectors" href="#">contact</a></li>
+                    <li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a title="About" href="index">Home</a></li>
+                    <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a title="Sectors" href="index#scrollTarget">About</a></li>
+                    <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a title="Sectors" href="index#services">service</a></li>
+                    <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a title="Sectors" href="index#contact">contact</a></li>
                 </ul>
             </nav>
         </div>
@@ -22,7 +22,7 @@
     <header class="site-header">
         <div class="site-header-container px-container">
             <div class="site-header-logo">
-                <a href="index.html">
+                <a href="index">
                     <img src="our-images/logo.png">
                     <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 171 60">
                             <defs>
@@ -51,7 +51,7 @@
                         <span></span>
                     </div>
                 </button>
-                <a class="site-header-btn" href="contact/index.html" target="_blank">
+                <a class="site-header-btn" href="contact/index" target="_blank">
                     <span>Book Today</span>
                 </a>
                 <!-- <a class="site-header-btn" href="contact.php">
@@ -114,7 +114,7 @@
         </div>
     </div>
 
-    <div class="px-container py-lg bg-body">
+    <div class="px-container py-lg bg-body" id="services">
         <div class="container text-lg-center">
             <div class="row justify-content-lg-center">
                 <div class="col-sm-10 col-md-9 col-lg-8 col-xl-7 col-2xl-6">
@@ -129,7 +129,7 @@
         <div class="container">
             <ul class="sectors-listings">
                 <li>
-                    <a class="sectors-listings-item" href="sectors/index.html#post-104">
+                    <a class="sectors-listings-item" href="">
                         <div class="content">
                             <div class="content-top">
                                 <h3 class="heading-md">Aviation Inspections</h3>
@@ -148,7 +148,7 @@
                     </a>
                 </li>
                 <li>
-                    <a class="sectors-listings-item" href="sectors/index.html#post-105">
+                    <a class="sectors-listings-item" href="">
                         <div class="content">
                             <div class="content-top">
                                 <h3 class="heading-md">Aviation NDT</h3>
@@ -167,7 +167,7 @@
                     </a>
                 </li>
                 <li>
-                    <a class="sectors-listings-item" href="sectors/index.html#post-106">
+                    <a class="sectors-listings-item" href="">
                         <div class="content">
                             <div class="content-top">
                                 <h3 class="heading-md">Drone Inspections</h3>
@@ -212,7 +212,7 @@
 
 
     <!-- contact -->
-    <div class="hero px-container bg-blue">
+    <div class="hero px-container bg-blue" id="contact">
         <div class="container">
             <div class="hero-main">
                 <div class="hero-subheading animate-text" data-splitting>Get in touch today</div>
