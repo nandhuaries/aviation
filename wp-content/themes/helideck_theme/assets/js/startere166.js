@@ -95,58 +95,116 @@ $(document).ready(function () {
     });
 });
 
+// // Header nav dropdowns
+// $(".site-header-nav-dropdown-item").each(function() {
+//     var parent = $(this);
+//     var link = parent.find(".site-header-nav-dropdown-toggle");
+//     var menu = parent.find(".site-header-nav-dropdown-menu");
+
+//     link.on({
+//         mouseenter: function() {
+//             parent.addClass("dropdown-is-open");
+//         },
+//         mouseleave: function() {
+//             parent.removeClass("dropdown-is-open");
+//         },
+//     });
+
+//     menu.on({
+//         mouseenter: function() {
+//             parent.addClass("dropdown-is-open");
+//         },
+//         mouseleave: function() {
+//             parent.removeClass("dropdown-is-open");
+//         },
+//     });
+// });
+
+// // Toggle mobile menu
+// $(".site-menu-toggle").on("click", function() {
+//     $(".site-menu, .site-menu-toggle").toggleClass("site-menu-is-open");
+//     $("body").toggleClass("no-scroll");
+// })
+
+// // Mobile menu dropdowns
+// $(".site-menu-nav-dropdown-item").each(function() {
+//     var toggle = $(this).find(".site-menu-nav-dropdown-toggle");
+//     var menu = $(this).find(".site-menu-nav-dropdown-menu");
+
+//     toggle.on("click", function() {
+
+//         if (!menu.hasClass("menu-active")) {
+//             $(".site-menu-nav-dropdown-toggle").removeClass("menu-active");
+//             $(".site-menu-nav-dropdown-menu").slideUp().removeClass("menu-active");
+//             toggle.addClass("menu-active");
+//             menu.slideDown().addClass("menu-active");
+//         } else {
+//             toggle.removeClass("menu-active");
+//             menu.slideUp().removeClass("menu-active");
+//         }
+
+//         // $(".site-menu-nav-dropdown-menu.active").slideUp().removeClass("active");
+//         // menu.slideToggle().addClass("active");
+//     });
+// });
+
+// modified code from chat gpt
 // Header nav dropdowns
 $(".site-header-nav-dropdown-item").each(function() {
     var parent = $(this);
     var link = parent.find(".site-header-nav-dropdown-toggle");
     var menu = parent.find(".site-header-nav-dropdown-menu");
-
+  
     link.on({
-        mouseenter: function() {
-            parent.addClass("dropdown-is-open");
-        },
-        mouseleave: function() {
-            parent.removeClass("dropdown-is-open");
-        },
+      mouseenter: function() {
+        parent.addClass("dropdown-is-open");
+      },
+      mouseleave: function() {
+        parent.removeClass("dropdown-is-open");
+      },
+      click: function() {
+        parent.removeClass("dropdown-is-open");
+      },
     });
-
+  
     menu.on({
-        mouseenter: function() {
-            parent.addClass("dropdown-is-open");
-        },
-        mouseleave: function() {
-            parent.removeClass("dropdown-is-open");
-        },
+      mouseenter: function() {
+        parent.addClass("dropdown-is-open");
+      },
+      mouseleave: function() {
+        parent.removeClass("dropdown-is-open");
+      },
     });
-});
-
-// Toggle mobile menu
-$(".site-menu-toggle").on("click", function() {
+  });
+  
+  // Toggle mobile menu
+  $(".site-menu-toggle").on("click", function() {
     $(".site-menu, .site-menu-toggle").toggleClass("site-menu-is-open");
     $("body").toggleClass("no-scroll");
-})
-
-// Mobile menu dropdowns
-$(".site-menu-nav-dropdown-item").each(function() {
+  });
+  
+  // Mobile menu dropdowns
+  $(".site-menu-nav-dropdown-item").each(function() {
     var toggle = $(this).find(".site-menu-nav-dropdown-toggle");
     var menu = $(this).find(".site-menu-nav-dropdown-menu");
-
+  
     toggle.on("click", function() {
-
-        if (!menu.hasClass("menu-active")) {
-            $(".site-menu-nav-dropdown-toggle").removeClass("menu-active");
-            $(".site-menu-nav-dropdown-menu").slideUp().removeClass("menu-active");
-            toggle.addClass("menu-active");
-            menu.slideDown().addClass("menu-active");
-        } else {
-            toggle.removeClass("menu-active");
-            menu.slideUp().removeClass("menu-active");
-        }
-
-        // $(".site-menu-nav-dropdown-menu.active").slideUp().removeClass("active");
-        // menu.slideToggle().addClass("active");
+      if (!menu.hasClass("menu-active")) {
+        $(".site-menu-nav-dropdown-toggle").removeClass("menu-active");
+        $(".site-menu-nav-dropdown-menu").slideUp().removeClass("menu-active");
+        toggle.addClass("menu-active");
+        menu.slideDown().addClass("menu-active");
+      } else {
+        toggle.removeClass("menu-active");
+        menu.slideUp().removeClass("menu-active");
+      }
+  
+      $(".site-menu, .site-menu-toggle").removeClass("site-menu-is-open");
+      $("body").removeClass("no-scroll");
     });
-});
+  });
+  
+// end modified code from chat gpt
 
 // Hero scroll button
 $(document).ready(function() {

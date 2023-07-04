@@ -6,7 +6,9 @@
     <!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9DF2SR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
     <!-- End Google Tag Manager (noscript) -->
 
-    <div class="animsition">
+    <!-- old nav code -->
+
+    <!-- <div class="animsition">
         <div class="site-menu">
             <nav>
                 <ul id="menu-responsive-menu" class="site-menu-nav-primary">
@@ -17,7 +19,27 @@
                 </ul>
             </nav>
         </div>
+    </div> -->
+
+    <!-- end old nav code -->
+
+    <!-- form chatgpt -->
+
+    <div class="animsition">
+        <div class="site-menu">
+            <nav>
+                <ul id="menu-responsive-menu" class="site-menu-nav-primary">
+                    <li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a title="Home" href="index">Home</a></li>
+                    <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a title="About" href="index.php#scrollTarget">About</a></li>
+                    <li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238"><a title="Service" href="index.php#services">Service</a></li>
+                    <li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a title="Contact" href="index.php#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
     </div>
+
+
+    <!-- end form chatgpt -->
 
     <header class="site-header">
         <div class="site-header-container px-container">
@@ -267,6 +289,10 @@
                                         </a>
                                     </li>
                                     <li>
+                                        <a href="tel:+971 6 5503100">
+                                            <span class="material-icons">fax</span>
+                                            <span class="text">+971 6 5503100</span>
+                                        </a><br>
                                         <a href="tel:+971 50 9638995">
                                             <span class="material-icons">phone</span>
                                             <span class="text">+971 50 9638995</span>
