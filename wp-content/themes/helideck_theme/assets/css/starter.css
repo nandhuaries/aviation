@@ -6415,7 +6415,7 @@
   }
   .hero {
     position: relative;
-    background-image: url("../img/interface/hero-watermark.svg");
+    /* background-image: url("../img/interface/hero-watermark.svg"); */
     background-position: right top;
     background-repeat: no-repeat;
     background-size: contain;
@@ -6430,6 +6430,7 @@
     justify-content: flex-end;
     align-items: flex-start;
     padding: 164px 0 50px 0;
+    /* padding: 50px 0 50px 0; */
   }
   @media (min-width: 576px) {
     .hero .hero-main {
@@ -6438,17 +6439,17 @@
   }
   @media (min-width: 768px) {
     .hero .hero-main {
-      padding: 296px 0 100px 0;
+      padding: 0px 0 100px 0;
     }
   }
   @media (min-width: 1200px) {
     .hero .hero-main {
-      padding: 328px 0 100px 0;
+      padding: 50px 0 100px 0;
     }
   }
   @media (min-width: 1600px) {
     .hero .hero-main {
-      padding: 360px 0 100px 0;
+      padding: 50px 0 100px 0;
     }
   }
   .hero .hero-main .hero-subheading {

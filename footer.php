@@ -1,19 +1,4 @@
-<div class="footer-cta px-container">
-    <div class="container">
-        <div class="footer-cta-container container">
-            <div class="heading-md">Speak to us today about how we can work together</div>
-            <a class="arrow-link arrow-link-white" href="contact/index.html">
-                <div class="icon">
-                    <svg class="blue-color" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
-                        <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#FEFEFE" stroke-miterlimit="10" stroke-width="0.561" />
-                    </svg>
-                    <span class="material-icons">arrow_forward_ios</span>
-                </div>
-                <span class="text">Get in touch</span>
-            </a>
-        </div>
-    </div>
-</div>
+
 <footer class="site-footer px-container bg-blue">
     <div class="container text-center">
         <div class="site-footer-logos">
@@ -91,6 +76,9 @@
 <script src="wp-content/themes/helideck_theme/assets/js/startere166.js?v=1.0.4"></script>
 <!-- end from chat gpt -->
 
+<!-- recaptcha -->
+ <script src="https://www.google.com/recaptcha/api.js"></script>
+<!-- end recaptcha -->
 
 <!-- <script src="wp-content/themes/helideck_theme/assets/js/startere166.js?v=1.0.4"></script> -->
 <script type="text/javascript">

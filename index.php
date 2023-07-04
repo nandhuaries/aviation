@@ -17,13 +17,14 @@
                 </ul>
             </nav>
         </div>
+    </div>
 
-        <header class="site-header">
-            <div class="site-header-container px-container">
-                <div class="site-header-logo">
-                    <a href="index.html">
-                        <img src="our-images/logo.png">
-                        <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 171 60">
+    <header class="site-header">
+        <div class="site-header-container px-container">
+            <div class="site-header-logo">
+                <a href="index.html">
+                    <img src="our-images/logo.png">
+                    <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 171 60">
                             <defs>
                                 <clipPath id="a">
                                     <path d="M0,0H59.875V60H0Z" fill="none" />
@@ -36,79 +37,71 @@
                             </g>
                             <path d="M54.064,41.189A20.3,20.3,0,0,1,41.6,36.928a20.637,20.637,0,0,1-7.242-10.76V40.263H23.475V24.521h-12.6V40.263H0V.926H10.877v13.58h12.6V.926H34.353V15.02A20.574,20.574,0,0,1,47.364,1.128,20.378,20.378,0,0,1,68.982,6.5l-7.717,7.012a9.972,9.972,0,0,0-7.2-3.052,10.139,10.139,0,0,0,0,20.277,9.97,9.97,0,0,0,7.2-3.053l5.958,5.413L81.046.926h8.5L106.56,40.263H94.372l-3.119-7.717h-12.1l-3.018,7.717H64.143L65.159,37.9A20.3,20.3,0,0,1,54.064,41.189ZM85.075,16.966,82.793,22.84h4.592Z" transform="translate(64.44 9.405)" fill="#fffffe" />
                         </svg> -->
-                    </a>
-                </div>
-                <div class="site-header-right">
-                    <button class="site-menu-toggle">
-                        <div class="menu-icon">
-                            <span></span>
-                            <span></span>
-                            <span></span>
-                        </div>
-                        <div class="close-icon">
-                            <span></span>
-                            <span></span>
-                        </div>
-                    </button>
-                    <a class="site-header-btn" href="contact/index.html" target="_blank">
-                        <span>Book Today</span>
-                    </a>
-                    <!-- <a class="site-header-btn" href="contact.php">
+                </a>
+            </div>
+            <div class="site-header-right">
+                <button class="site-menu-toggle">
+                    <div class="menu-icon">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                    <div class="close-icon">
+                        <span></span>
+                        <span></span>
+                    </div>
+                </button>
+                <a class="site-header-btn" href="contact/index.html" target="_blank">
+                    <span>Book Today</span>
+                </a>
+                <!-- <a class="site-header-btn" href="contact.php">
                     <span class="material-icons">account_circle</span>
                     <span>Sign in</span>
                 </a> -->
-                    <!--
+                <!--
                                 <a class="site-header-basket" href="https://www.helidecks.org/cart/">
                     <span class="material-icons">shopping_basket</span>
                     <span id="cart-items" class="basket-counter">0</span>
                 </a>
                                 -->
+            </div>
+        </div>
+    </header>
+
+    <div class="home-hero hero hero-full bg-blue">
+        <div class="px-container">
+            <div class="container">
+                <div class="hero-main">
+                    <h1 class="heading-xs animate-text" data-splitting>Aries Aviation Services</h1>
+                    <h2 class="hero-heading hero-heading-sm animate-text" data-splitting><span class="light"></span>Aries Aviation Services FZE is based in Sharjah Airport Authority Free Zone, Sharjah</h2>
+                    <a class="home-hero-scroll" href="#scrollTarget">
+                        <div class="icon"><span class="material-icons">arrow_forward_ios</span></div>
+                    </a>
                 </div>
             </div>
-        </header>
+        </div>
 
-        <div class="home-hero hero hero-full bg-blue">
-            <div class="px-container">
-                <div class="container">
-                    <div class="hero-main">
-                        <h1 class="heading-xs animate-text" data-splitting>Aries Aviation Services</h1>
-                        <h2 class="hero-heading hero-heading-sm animate-text" data-splitting><span class="light"></span>Aries Aviation Services FZE is based in Sharjah Airport Authority Free Zone, Sharjah</h2>
-                        <a class="home-hero-scroll" href="#scrollTarget">
-                            <div class="icon"><span class="material-icons">arrow_forward_ios</span></div>
-                        </a>
-                    </div>
+        <!-- <div class="hero-bg" style="background-image:url('wp-content/uploads/2021/07/hero-02-1.jpg');"></div> -->
+        <div class="hero-bg" style="background-image:url('our-images/banner.jpg');"></div>
+    </div>
+
+    <div class="home-clouds"></div>
+
+    <div class="home-intro bg-body" id="scrollTarget">
+        <!-- <div class="home-intro-image-main" style="background-image:url('wp-content/uploads/2021/07/hero-03.jpg');"> -->
+        <div class="home-intro-image-main" style="background-image:url('our-images/about-img.jpg');">
+        </div>
+        <!-- <div class="home-intro-image-01" style="background-image:url('wp-content/uploads/2021/08/Home.jpg');"></div> -->
+        <div class="home-intro-image-02" style="background-image:url('our-images/about-sm.jpg');"></div>
+        <!-- <div class="home-intro-image-02" style="background-image:url('https://images.unsplash.com/photo-1628354215124-dd0ab72828ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=813&q=80');"></div> -->
+        <div class="home-intro-content py-lg">
+            <div class="home-intro-content-container">
+                <h2 class="home-intro-heading animate-text" data-splitting>About us</h2>
+                <div class="richtext richtext-fade-in text-justify">
+                    <p>Aries Aviation Services FZE is based in Sharjah Airport Authority Free Zone, Sharjah.</p>
+                    <p>Aries Group of companies is the recognized leader in delivering Advanced Inspection Services in the Oil & Gas industry. To serve the Aviation Industry, the new company has been initiated in SAIF Zone, Sharjah. The Company is having approval from the General Civil Aviation Authority (GCAA) as per local regulations to serve the Aviation Industry. The company is having well-experienced personnel, who are qualified as per BS EN 4179 / PCN / NAS 410. The Company will be equipped with the latest inspection tools and technology to cater to the most advanced requirements of the Aviation Industry.</p>
                 </div>
-            </div>
-            <!-- <a class="home-hero-link" href="#">
-        <div class="arrow-link">
-            <div class="icon">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607"><path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561"/></svg>
-                <span class="material-icons">arrow_forward_ios</span>
-            </div>
-            <span class="text">Discover our <span class="light">2020/21 Industry Insights</span></span>
-        </div>
-    </a> -->
-            <!-- <div class="hero-bg" style="background-image:url('wp-content/uploads/2021/07/hero-02-1.jpg');"></div> -->
-            <div class="hero-bg" style="background-image:url('our-images/banner.jpg');"></div>
-        </div>
-
-        <div class="home-clouds"></div>
-
-        <div class="home-intro bg-body" id="scrollTarget">
-            <!-- <div class="home-intro-image-main" style="background-image:url('wp-content/uploads/2021/07/hero-03.jpg');"> -->
-            <div class="home-intro-image-main" style="background-image:url('our-images/about-img.jpg');">
-            </div>
-            <!-- <div class="home-intro-image-01" style="background-image:url('wp-content/uploads/2021/08/Home.jpg');"></div> -->
-            <div class="home-intro-image-02" style="background-image:url('our-images/about-sm.jpg');"></div>
-            <!-- <div class="home-intro-image-02" style="background-image:url('https://images.unsplash.com/photo-1628354215124-dd0ab72828ac?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=813&q=80');"></div> -->
-            <div class="home-intro-content py-lg">
-                <div class="home-intro-content-container">
-                    <h2 class="home-intro-heading animate-text" data-splitting>About us</h2>
-                    <div class="richtext richtext-fade-in">
-                        <p>Aries Aviation Services FZE is based in Sharjah Airport Authority Free Zone, Sharjah.</p>
-                        <p>Aries Group of companies is the recognized leader in delivering Advanced Inspection Services in the Oil & Gas industry. To serve the Aviation Industry, the new company has been initiated in SAIF Zone, Sharjah. The Company is having approval from the General Civil Aviation Authority (GCAA) as per local regulations to serve the Aviation Industry. The company is having well-experienced personnel, who are qualified as per BS EN 4179 / PCN / NAS 410. The Company will be equipped with the latest inspection tools and technology to cater to the most advanced requirements of the Aviation Industry.</p>
-                    </div>
-                    <!-- <a class="arrow-link fade-in-item" href="javascript:void(0)">
+                <!-- <a class="arrow-link fade-in-item" href="javascript:void(0)">
                         <div class="icon">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
                                 <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561" />
@@ -117,82 +110,82 @@
                         </div>
                         <span class="text">Discover our story</span>
                     </a> -->
+            </div>
+        </div>
+    </div>
+
+    <div class="px-container py-lg bg-body">
+        <div class="container text-lg-center">
+            <div class="row justify-content-lg-center">
+                <div class="col-sm-10 col-md-9 col-lg-8 col-xl-7 col-2xl-6">
+                    <!-- <h2 class="heading-xs animate-text" data-splitting>Our Sectors</h2> -->
+                    <h3 class="heading-md animate-text" data-splitting>Services We Provide</h3>
                 </div>
             </div>
         </div>
+    </div>
 
-        <div class="px-container py-lg bg-body">
-            <div class="container text-lg-center">
-                <div class="row justify-content-lg-center">
-                    <div class="col-sm-10 col-md-9 col-lg-8 col-xl-7 col-2xl-6">
-                        <!-- <h2 class="heading-xs animate-text" data-splitting>Our Sectors</h2> -->
-                        <h3 class="heading-md animate-text" data-splitting>Services We Provide</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="sectors-listings-container px-container pb-lg">
-            <div class="container">
-                <ul class="sectors-listings">
-                    <li>
-                        <a class="sectors-listings-item" href="sectors/index.html#post-104">
-                            <div class="content">
-                                <div class="content-top">
-                                    <h3 class="heading-md">Aviation Inspections</h3>
-                                </div>
-                                <div class="arrow-link arrow-link-white">
-                                    <div class="icon">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
-                                            <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561" />
-                                        </svg>
-                                        <span class="material-icons">arrow_forward_ios</span>
-                                    </div>
-                                    <span class="text">Find out more</span>
-                                </div>
+    <div class="sectors-listings-container px-container pb-lg">
+        <div class="container">
+            <ul class="sectors-listings">
+                <li>
+                    <a class="sectors-listings-item" href="sectors/index.html#post-104">
+                        <div class="content">
+                            <div class="content-top">
+                                <h3 class="heading-md">Aviation Inspections</h3>
                             </div>
-                            <div class="image" style="background-image:url('our-images/services/inspection.jpg');"></div>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="sectors-listings-item" href="sectors/index.html#post-105">
-                            <div class="content">
-                                <div class="content-top">
-                                    <h3 class="heading-md">Aviation NDT</h3>
+                            <div class="arrow-link arrow-link-white">
+                                <div class="icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
+                                        <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561" />
+                                    </svg>
+                                    <span class="material-icons">arrow_forward_ios</span>
                                 </div>
-                                <div class="arrow-link arrow-link-white">
-                                    <div class="icon">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
-                                            <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561" />
-                                        </svg>
-                                        <span class="material-icons">arrow_forward_ios</span>
-                                    </div>
-                                    <span class="text">Find out more</span>
-                                </div>
+                                <span class="text">Find out more</span>
                             </div>
-                            <div class="image" style="background-image:url('our-images/services/service2.jpg');"></div>
-                        </a>
-                    </li>
-                    <li>
-                        <a class="sectors-listings-item" href="sectors/index.html#post-106">
-                            <div class="content">
-                                <div class="content-top">
-                                    <h3 class="heading-md">Drone Inspections</h3>
-                                </div>
-                                <div class="arrow-link arrow-link-white">
-                                    <div class="icon">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
-                                            <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561" />
-                                        </svg>
-                                        <span class="material-icons">arrow_forward_ios</span>
-                                    </div>
-                                    <span class="text">Find out more</span>
-                                </div>
+                        </div>
+                        <div class="image" style="background-image:url('our-images/services/inspection.jpg');"></div>
+                    </a>
+                </li>
+                <li>
+                    <a class="sectors-listings-item" href="sectors/index.html#post-105">
+                        <div class="content">
+                            <div class="content-top">
+                                <h3 class="heading-md">Aviation NDT</h3>
                             </div>
-                            <div class="image" style="background-image:url('our-images/services/service3.jpg');"></div>
-                        </a>
-                    </li>
-                    <!-- <li>
+                            <div class="arrow-link arrow-link-white">
+                                <div class="icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
+                                        <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561" />
+                                    </svg>
+                                    <span class="material-icons">arrow_forward_ios</span>
+                                </div>
+                                <span class="text">Find out more</span>
+                            </div>
+                        </div>
+                        <div class="image" style="background-image:url('our-images/services/service2.jpg');"></div>
+                    </a>
+                </li>
+                <li>
+                    <a class="sectors-listings-item" href="sectors/index.html#post-106">
+                        <div class="content">
+                            <div class="content-top">
+                                <h3 class="heading-md">Drone Inspections</h3>
+                            </div>
+                            <div class="arrow-link arrow-link-white">
+                                <div class="icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
+                                        <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561" />
+                                    </svg>
+                                    <span class="material-icons">arrow_forward_ios</span>
+                                </div>
+                                <span class="text">Find out more</span>
+                            </div>
+                        </div>
+                        <div class="image" style="background-image:url('our-images/services/service3.jpg');"></div>
+                    </a>
+                </li>
+                <!-- <li>
                         <a class="sectors-listings-item" href="sectors/index.html#post-107">
                             <div class="content">
                                 <div class="content-top">
@@ -212,19 +205,19 @@
                             </div>
                         </a>
                     </li> -->
-                </ul>
-            </div>
+            </ul>
         </div>
+    </div>
 
 
 
-        <!-- contact -->
-        <div class="hero px-container bg-blue">
-            <div class="container">
-                <div class="hero-main">
-                    <div class="hero-subheading animate-text" data-splitting>Get in touch today</div>
-                    <h1 class="hero-heading animate-text" data-splitting>Contact</h1>
-                    <a class="contact-hero-scroll fade-in-item" href="#scrollTarget">
+    <!-- contact -->
+    <div class="hero px-container bg-blue">
+        <div class="container">
+            <div class="hero-main">
+                <div class="hero-subheading animate-text" data-splitting>Get in touch today</div>
+                <h1 class="hero-heading animate-text" data-splitting>Contact</h1>
+                <!-- <a class="contact-hero-scroll fade-in-item" href="#scrollTarget">
                         <div class="icon">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
                                 <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#FFF" stroke-miterlimit="10" stroke-width="0.561" />
@@ -232,555 +225,100 @@
                             <span class="material-icons">arrow_forward_ios</span>
                         </div>
                         <span class="text">Looking for staff contacts?</span>
-                    </a>
-                </div>
+                    </a> -->
             </div>
-        </div>
-
-        <div class="contact-main px-container bg-body">
-            <div class="container">
-                <div class="row no-gutters">
-                    <div class="col-lg-4">
-                        <div class="contact-boxes">
-                            <div class="contact-boxes-item fade-in-item">
-                                <div class="contact-box">
-                                    <h2 class="contact-box-heading">Find us</h2>
-                                    <div class="address">
-                                        <div class="address-line">Q3-187, PO Box 8337,<br>
-                                            Sharjah Airport Free Zone,<br>
-                                            Sharjah, United Arab Emirates</div>
-                                    </div>
-                                    <ul class="contact-details-links">
-                                        <li>
-                                            <a href="https://goo.gl/maps/VWYEGZ1KS29ydrdh6" target="_blank">
-                                                <span class="material-icons">place</span>
-                                                <span class="text">View on maps</span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="contact-boxes-item fade-in-item">
-                                <div class="contact-box">
-                                    <h2 class="contact-box-heading">Contact</h2>
-                                    <ul class="contact-details-links">
-                                        <li>
-                                            <a href="Javascript:void(0)">
-                                                <span class="material-icons">contacts</span>
-                                                <span class="text">Mr. Renjithraj Raju<br>
-                                                    ASNT Level III<br>
-                                                    ISO 50001 Energy Management Lead Auditor<br>
-                                                    Manager [ Aviation, PMS, Environmental ]</span>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="tel:+971 50 9638995">
-                                                <span class="material-icons">phone</span>
-                                                <span class="text">+971 50 9638995</span>
-                                            </a>
-                                            <a href="tel:+971 6 5503300">
-                                                <span class="material-icons">phone</span>
-                                                <span class="text">+971 6 5503300</span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-7 offset-lg-1">
-                        <form class="contact-form fade-in-item validate" autocomplete="off">
-                            <input type="hidden" name="formEmail" value="info@helidecks.org">
-                            <input type="hidden" name="subject" value="Helideck contact">
-                            <input class="required" type="text" id="name" name="name" placeholder="Name">
-                            <input class="required" type="email" id="email" name="email" placeholder="Email">
-                            <input class="required" type="text" id="phone" name="phone" placeholder="Telephone">
-
-                            <div>
-                                <label for="ic">
-                                    <div class="text" style="color:#6c757d;">Enquiry</div>
-                                </label>
-
-                                <div style="padding-left:80px">
-                                    <div class="checkbox-item scroll-fade-in">
-                                        <input class="required" name="enquiry" type="checkbox" id="ic">
-                                        <label for="ic">
-                                            <div class="checkbox"></div>
-                                            <div class="text">Inspection & Certification</div>
-                                        </label>
-                                    </div>
-
-                                    <div class="checkbox-item scroll-fade-in">
-                                        <input class="required" name="enquiry" type="checkbox" id="ft">
-                                        <label for="ft">
-                                            <div class="checkbox"></div>
-                                            <div class="text">Friction Testing</div>
-                                        </label>
-                                    </div>
-
-                                    <div class="checkbox-item scroll-fade-in">
-                                        <input class="required" name="enquiry" type="checkbox" id="tc">
-                                        <label for="tc">
-                                            <div class="checkbox"></div>
-                                            <div class="text">Training & Competency</div>
-                                        </label>
-                                    </div>
-
-                                    <div class="checkbox-item scroll-fade-in">
-                                        <input class="required" name="enquiry" type="checkbox" id=dgaae>
-                                        <label for="dgaae">
-                                            <div class="checkbox"></div>
-                                            <div class="text">Dangerous Goods by Air Awareness ELearning</div>
-                                        </label>
-                                    </div>
-
-                                    <div class="checkbox-item scroll-fade-in">
-                                        <input class="required" name="enquiry" type="checkbox" id="sy">
-                                        <label for="sy">
-                                            <div class="checkbox"></div>
-                                            <div class="text">Super Yachts</div>
-                                        </label>
-                                    </div>
-
-                                    <div class="checkbox-item scroll-fade-in">
-                                        <input class="required" name="enquiry" type="checkbox" id="cons">
-                                        <label for="cons">
-                                            <div class="checkbox"></div>
-                                            <div class="text">Consultancy</div>
-                                        </label>
-                                    </div>
-
-                                    <div class="checkbox-item scroll-fade-in">
-                                        <input class="required" name="enquiry" type="checkbox" id="other">
-                                        <label for="other">
-                                            <div class="checkbox"></div>
-                                            <div class="text">Other</div>
-                                        </label>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <textarea class="required" id="message" name="message" placeholder="Message"></textarea>
-                            <div class="checkbox-item scroll-fade-in">
-                                <input class="required" name="terms" type="checkbox" id="checkbox1">
-                                <label for="checkbox1">
-                                    <div class="checkbox"></div>
-                                    <div class="text">
-                                        <p>By ticking this box you agree to the use of your personal information in our
-                                            provision of services to you. Please see our <a class="c-link" href="../privacy/index.html" target="_blank" rel="noopener noreferrer" data-stringify-link="https://www.savills.co.uk/footer/privacy-policy.aspx" data-sk="tooltip_parent">Privacy Notice </a>for details of how your
-                                            personal information will be used.</p>
-                                    </div>
-                                </label>
-                            </div>
-                            <button class="submit-btn">Send enquiry</button>
-                            <h3 class="form-message">Thank you for contacting Helideck! We will be in touch with you
-                                shortly.</h3>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- end contact -->
-
-
-
-        <div class="px-container pt-lg bg-body">
-            <div class="container text-lg-center">
-                <div class="row justify-content-lg-center">
-                    <div class="col-sm-10 col-md-9 col-lg-8 col-xl-7 col-2xl-6">
-                        <h2 class="heading-xs animate-text" data-splitting>Our Services</h2>
-                        <!--<h3 class="heading-md animate-text" data-splitting>A diverse client base: we’re equipped to perform helideck services offshore and onshore, across multiple sectors</h3>-->
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="px-container py-lg bg-body">
-            <div class="container home-services-container">
-                <h2 class="home-services-heading">Our Services</h2>
-                <div class="home-services-listings">
-                    <div class="home-services-listings-item">
-                        <div class="content">
-                            <h3 class="heading">Consultancy</h3>
-                            <div class="bottom">
-                                <div class="body">
-                                    <p>Expert advice and guidance in support of helideck design and alterations. </p>
-                                </div>
-                                <a class="arrow-link" href="services/consultancy/index.html">
-                                    <div class="icon">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
-                                            <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561" />
-                                        </svg>
-                                        <span class="material-icons">arrow_forward_ios</span>
-                                    </div>
-                                    <span class="text">Learn more</span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="home-services-listings-item">
-                        <div class="content">
-                            <h3 class="heading">Inspection, Audit &#038; Certification</h3>
-                            <div class="bottom">
-                                <div class="body">
-                                    <p>At the forefront of the industry in the provision of core helideck compliance
-                                        services. </p>
-                                </div>
-                                <a class="arrow-link" href="services/inspection-audit-certification/index.html">
-                                    <div class="icon">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
-                                            <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561" />
-                                        </svg>
-                                        <span class="material-icons">arrow_forward_ios</span>
-                                    </div>
-                                    <span class="text">Learn more</span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="home-services-listings-item">
-                        <div class="content">
-                            <h3 class="heading">Training &#038; Competency Services</h3>
-                            <div class="bottom">
-                                <div class="body">
-                                    <p>Augmenting the skills and knowledge of key personnel – equipping them to support
-                                        safe operations. </p>
-                                </div>
-                                <a class="arrow-link" href="services/training-competency/index.html">
-                                    <div class="icon">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
-                                            <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561" />
-                                        </svg>
-                                        <span class="material-icons">arrow_forward_ios</span>
-                                    </div>
-                                    <span class="text">Learn more</span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="home-services-listings-item">
-                        <div class="content">
-                            <h3 class="heading">Friction Testing</h3>
-                            <div class="bottom">
-                                <div class="body">
-                                    <p>Supporting the development of industry-leading solutions – then implementing them
-                                        on your behalf. </p>
-                                </div>
-                                <a class="arrow-link" href="services/friction-testing/index.html">
-                                    <div class="icon">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
-                                            <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561" />
-                                        </svg>
-                                        <span class="material-icons">arrow_forward_ios</span>
-                                    </div>
-                                    <span class="text">Learn more</span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="home-elearning bg-darkblue">
-            <div class="split split-reverse px-container">
-                <div class="split-container">
-                    <div class="split-image" style="background-image:url('wp-content/uploads/2022/05/DSC_1208.jpg');">
-                    </div>
-                    <div class="split-content">
-                        <div class="split-content-container">
-                            <h2 class="heading-xs animate-text" data-splitting>E-Learning</h2>
-                            <h3 class="heading-lg animate-text" data-splitting>Industry expertise delivered by the
-                                helideck professionals</h3>
-                            <a class="arrow-link arrow-link-white fade-in-item" href="training-competency/index.html">
-                                <div class="icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
-                                        <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561" />
-                                    </svg>
-                                    <span class="material-icons">arrow_forward_ios</span>
-                                </div>
-                                <span class="text">Learn more</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="px-container py-lg bg-blue testimonials-carousel-container">
-            <div class="container">
-                <h2 class="heading-lg heading-underline text-center animate-text" data-splitting>What our clients say
-                </h2>
-                <div class="testimonials-carousel fade-in-item">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="testimonials-carousel-item">
-                                <div class="top">
-                                    <div class="quote">
-                                        <p><i><span lang="EN-GB">We have worked with HCA for a number of years
-                                                    supporting our Mariner field operations. They have consistently
-                                                    provided high quality and professional support.</span></i></p>
-                                    </div>
-                                </div>
-                                <div class="ref">Equinor Production UK - Principal Consultant – Supply Chain</div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="testimonials-carousel-item">
-                                <div class="top">
-                                    <div class="quote">
-                                        <p><em>We’ve used the services of HCA for many years now and we’re invariably
-                                            </em><em>impressed by the exceptional standards it maintains. There’s a
-                                                genuine sense </em><em>of authority and professionalism about how it
-                                                goes about its work, and that </em><em>in turn gives us confidence that
-                                                our helideck services are in the best of </em><em>hands.</em></p>
-                                    </div>
-                                </div>
-                                <div class="ref">Director, O&#038;G Sector </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="testimonials-carousel-item">
-                                <div class="top">
-                                    <div class="quote">
-                                        <p><em>Safety and regulatory compliance are everything in our industry, and we
-                                            </em><em>know we can rely on HCA’s experience and technical know-how to
-                                                ensure we </em><em>always meet our objectives in those areas.</em></p>
-                                    </div>
-                                </div>
-                                <div class="ref">HSEQ Manager, Renewable Sector </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="testimonials-carousel-item">
-                                <div class="top">
-                                    <div class="quote">
-                                        <p><em>HCA people are always good to deal with: professional and technically
-                                            </em><em>proficient certainly, but also readily available to offer expert
-                                                guidance, </em><em>insights and advice. They know their industry, and in
-                                                our view they’re the </em><em>go-to helidecks people for a reason –
-                                                trust.</em></p>
-                                    </div>
-                                </div>
-                                <div class="ref">Operations Director, O&#038;G Sector </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="testimonials-carousel-footer fade-in-item">
-                        <div class="testimonials-carousel-nav">
-                            <button class="testimonials-carousel-prev"><span class="material-icons">arrow_back_ios</span></button>
-                            <button class="testimonials-carousel-next"><span class="material-icons">arrow_forward_ios</span></button>
-                        </div>
-                        <div class="testimonials-carousel-scrollbar"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!--
-<div class="px-container py-lg bg-body">
-    <div class="container">
-        <div class="home-news-header">
-            <h2 class="heading-xs animate-text" data-splitting>Latest news</h2>
-            <a class="arrow-link fade-in-item" href="/news/">
-                <div class="icon">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607"><path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561"/></svg>
-                    <span class="material-icons">arrow_forward_ios</span>
-                </div>
-                <span class="text">View all</span>
-            </a>
-        </div>
-        <div class="home-news-carousel">
-            <div class="swiper-wrapper">
-	            					                <div class="swiper-slide">
-	                    <a class="news-card" href="https://www.helidecks.org/procedure-for-authorising-offshore-helicopter-landing-areas/">
-	                        								<div class="news-card-image" style="background-image:url('https://www.helidecks.org/wp-content/uploads/2022/07/shutterstock_793175164_11zon.jpg');"></div> 
-								                        <div class="news-card-content">
-	                            <div class="news-card-content-top">
-	                                <div class="news-card-category">All News, Industry News</div>
-	                                <div class="news-card-heading">Procedure for Authorising Offshore Helicopter Landing Areas</div>
-	                            </div>
-	                            <div class="news-card-content-bottom">
-	                                <div class="news-card-date">7 April 2023</div>
-	                                <div class="arrow-link">
-	                                    <div class="icon">
-	                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607"><path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561"/></svg>
-	                                        <span class="material-icons">arrow_forward_ios</span>
-	                                    </div>
-	                                </div>
-	                            </div>
-	                        </div>
-	                    </a>
-	                </div>
-	            	                <div class="swiper-slide">
-	                    <a class="news-card" href="https://www.helidecks.org/compliance-with-cap437-appendix-k/">
-	                        								<div class="news-card-image" style="background-image:url('https://www.helidecks.org/wp-content/uploads/2023/02/IMT_ENSCO_Helideck_Rotterdam_010-002.jpg');"></div> 
-								                        <div class="news-card-content">
-	                            <div class="news-card-content-top">
-	                                <div class="news-card-category">All News, Industry News</div>
-	                                <div class="news-card-heading">Compliance with CAP437 Appendix K</div>
-	                            </div>
-	                            <div class="news-card-content-bottom">
-	                                <div class="news-card-date">28 March 2023</div>
-	                                <div class="arrow-link">
-	                                    <div class="icon">
-	                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607"><path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561"/></svg>
-	                                        <span class="material-icons">arrow_forward_ios</span>
-	                                    </div>
-	                                </div>
-	                            </div>
-	                        </div>
-	                    </a>
-	                </div>
-	            	                <div class="swiper-slide">
-	                    <a class="news-card" href="https://www.helidecks.org/baggage-search-training-agreement/">
-	                        								<div class="news-card-image" style="background-image:url('https://www.helidecks.org/wp-content/uploads/2023/02/Inbound-Baggage-Search-Training-Agreement.png');"></div> 
-								                        <div class="news-card-content">
-	                            <div class="news-card-content-top">
-	                                <div class="news-card-category">All News, Industry News</div>
-	                                <div class="news-card-heading">Baggage Search Training Agreement</div>
-	                            </div>
-	                            <div class="news-card-content-bottom">
-	                                <div class="news-card-date">23 February 2023</div>
-	                                <div class="arrow-link">
-	                                    <div class="icon">
-	                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607"><path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561"/></svg>
-	                                        <span class="material-icons">arrow_forward_ios</span>
-	                                    </div>
-	                                </div>
-	                            </div>
-	                        </div>
-	                    </a>
-	                </div>
-	            	                <div class="swiper-slide">
-	                    <a class="news-card" href="https://www.helidecks.org/helideck-certification-for-superyachts/">
-	                        								<div class="news-card-image" style="background-image:url('https://www.helidecks.org/wp-content/uploads/2023/02/P1090087.jpg');"></div> 
-								                        <div class="news-card-content">
-	                            <div class="news-card-content-top">
-	                                <div class="news-card-category">All News, Blog Article</div>
-	                                <div class="news-card-heading">Helideck Certification for Superyachts</div>
-	                            </div>
-	                            <div class="news-card-content-bottom">
-	                                <div class="news-card-date">23 February 2023</div>
-	                                <div class="arrow-link">
-	                                    <div class="icon">
-	                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607"><path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561"/></svg>
-	                                        <span class="material-icons">arrow_forward_ios</span>
-	                                    </div>
-	                                </div>
-	                            </div>
-	                        </div>
-	                    </a>
-	                </div>
-	            	                <div class="swiper-slide">
-	                    <a class="news-card" href="https://www.helidecks.org/key-benefits-of-helideck-training/">
-	                        								<div class="news-card-image" style="background-image:url('https://www.helidecks.org/wp-content/uploads/2022/12/unnamed-12.jpg');"></div> 
-								                        <div class="news-card-content">
-	                            <div class="news-card-content-top">
-	                                <div class="news-card-category">All News, Blog Article</div>
-	                                <div class="news-card-heading">Key Benefits Of Helideck Training</div>
-	                            </div>
-	                            <div class="news-card-content-bottom">
-	                                <div class="news-card-date">13 December 2022</div>
-	                                <div class="arrow-link">
-	                                    <div class="icon">
-	                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607"><path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561"/></svg>
-	                                        <span class="material-icons">arrow_forward_ios</span>
-	                                    </div>
-	                                </div>
-	                            </div>
-	                        </div>
-	                    </a>
-	                </div>
-	                        </div>
-        </div>
-        <div class="home-news-carousel-footer fade-in-item">
-            <div class="home-news-carousel-nav">
-                <button class="home-news-carousel-prev"><span class="material-icons">arrow_back_ios</span></button>
-                <button class="home-news-carousel-next"><span class="material-icons">arrow_forward_ios</span></button>
-            </div>
-            <div class="home-news-carousel-scrollbar"></div>
         </div>
     </div>
-</div>
--->
 
-        <div class="px-container py-lg bg-body">
-            <div class="container">
-                <div class="home-clients">
-                    <div class="home-clients-content">
-                        <div class="home-clients-content-container">
-                            <h2 class="heading-xs animate-text" data-splitting>Our clients</h2>
-                            <h3 class="heading-md animate-text" data-splitting>An international reach: the knowledge,
-                                network and resources to deliver for clients – leading players in their sectors – around
-                                the world.</h3>
+    <div class="contact-main px-container bg-body">
+        <div class="container">
+            <div class="row no-gutters">
+                <div class="col-lg-4">
+                    <div class="contact-boxes">
+                        <div class="contact-boxes-item fade-in-item">
+                            <div class="contact-box">
+                                <h2 class="contact-box-heading">Find us</h2>
+                                <div class="address">
+                                    <div class="address-line">Q3-187, PO Box 8337,<br>
+                                        Sharjah Airport Free Zone,<br>
+                                        Sharjah, United Arab Emirates</div>
+                                </div>
+                                <ul class="contact-details-links">
+                                    <li>
+                                        <a href="https://goo.gl/maps/VWYEGZ1KS29ydrdh6" target="_blank">
+                                            <span class="material-icons">place</span>
+                                            <span class="text">View on maps</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
-                    </div>
-                    <div class="home-clients-logos">
-                        <div class="home-clients-logos-container">
-                            <ul>
-                                <li>
-                                    <div class="home-clients-logos-item">
-                                        <div class="image">
-                                            <img src="wp-content/uploads/2021/07/bp.png">
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="home-clients-logos-item">
-                                        <div class="image">
-                                            <img src="wp-content/uploads/2021/07/equinor.png">
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="home-clients-logos-item">
-                                        <div class="image">
-                                            <img src="wp-content/uploads/2021/07/harbour-energy.png">
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <a class="home-clients-logos-item" href="#" target="_blank">
-                                        <div class="image">
-                                            <img src="wp-content/uploads/2021/07/maersek.png">
-                                        </div>
-                                    </a>
-                                </li>
-                                <li>
-                                    <div class="home-clients-logos-item">
-                                        <div class="image">
-                                            <img src="wp-content/uploads/2021/07/perenco.png">
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="home-clients-logos-item">
-                                        <div class="image">
-                                            <img src="wp-content/uploads/2021/07/spirit-energy.png">
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="home-clients-logos-item">
-                                        <div class="image">
-                                            <img src="wp-content/uploads/2021/07/subsea7.png">
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="home-clients-logos-item">
-                                        <div class="image">
-                                            <img src="wp-content/uploads/2021/07/total.png">
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
+                        <div class="contact-boxes-item fade-in-item">
+                            <div class="contact-box">
+                                <h2 class="contact-box-heading">Contact</h2>
+                                <ul class="contact-details-links">
+                                    <li>
+                                        <a href="Javascript:void(0)">
+                                            <span class="material-icons">contacts</span>
+                                            <span class="text">Mr. Renjithraj Raju<br>
+                                                ASNT Level III<br>
+                                                ISO 50001 Energy Management Lead Auditor<br>
+                                                Manager [ Aviation, PMS, Environmental ]</span>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="tel:+971 50 9638995">
+                                            <span class="material-icons">phone</span>
+                                            <span class="text">+971 50 9638995</span>
+                                        </a>
+                                        <a href="tel:+971 6 5503300">
+                                            <span class="material-icons">phone</span>
+                                            <span class="text">+971 6 5503300</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-7 offset-lg-1">
+                    <form class="contact-form fade-in-item validate" autocomplete="off">
+                        <input type="hidden" name="formEmail" value="info@helidecks.org">
+                        <input type="hidden" name="subject" value="Helideck contact">
+                        <input class="required" type="text" id="name" name="name" placeholder="Name">
+                        <input class="required" type="email" id="email" name="email" placeholder="Email">
+                        <input class="required" type="text" id="website" name="website" placeholder="Website">
+                        <input class="required" type="text" id="contact" name="contact" placeholder="Contact Number">
+                        <input class="required" type="text" id="subject" name="subject" placeholder="Subject">
+                        <textarea class="required" id="message" name="message" placeholder="Message"></textarea>
+                        <div class="checkbox-item scroll-fade-in">
+                            <div class="col-md-12 col-sm-12">
+                                <div class="g-recaptcha" data-sitekey="6Ldxe20UAAAAAD_17wcLirt0F7WmMb_Ixgoi3AYt"></div>
+                            </div>
+                        </div>
+                        <button class="submit-btn">Submit</button>
+                        <h3 class="form-message">Thank you for contacting Aries Aviation! We will be in touch with you
+                            shortly.</h3>
+                    </form>
+                </div>
             </div>
         </div>
+    </div>
+    <!-- end contact -->
 
 
-        <?php include("footer.php"); ?>
+
+    <div class="px-container pt-lg bg-body">
+        <div class="container text-lg-center">
+            <div class="row justify-content-lg-center">
+                <div class="col-sm-10 col-md-9 col-lg-8 col-xl-7 col-2xl-6">
+                    <!-- <h2 class="heading-xs animate-text" data-splitting>Our Services</h2> -->
+                    <!--<h3 class="heading-md animate-text" data-splitting>A diverse client base: we’re equipped to perform helideck services offshore and onshore, across multiple sectors</h3>-->
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <?php include("footer.php"); ?>
