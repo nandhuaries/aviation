@@ -1,7 +1,5 @@
 <?php include("header.php"); ?>
 
-
-
     <div class="home-hero hero hero-full bg-blue">
         <div class="px-container">
             <div class="container">
@@ -63,7 +61,7 @@
         <div class="container">
             <ul class="sectors-listings">
                 <li>
-                    <a class="sectors-listings-item" href="">
+                    <a class="sectors-listings-item" href="aviation-inspections.php">
                         <div class="content">
                             <div class="content-top">
                                 <h3 class="heading-md">Aviation Inspections</h3>
