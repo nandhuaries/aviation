@@ -29,10 +29,10 @@
         <div class="site-menu">
             <nav>
                 <ul id="menu-responsive-menu" class="site-menu-nav-primary">
-                    <li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a title="Home" href="index">Home</a></li>
-                    <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a title="About" href="index.php#scrollTarget">About</a></li>
-                    <li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238"><a title="Service" href="index.php#services">Service</a></li>
-                    <li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a title="Contact" href="index.php#contact">Contact</a></li>
+                    <li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236 site-menu-toggle"><a title="Home" href="./">Home</a></li>
+                    <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237 site-menu-toggle"><a title="About" href="#scrollTarget">About</a></li>
+                    <li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238 site-menu-toggle"><a title="Service" href="#services">Service</a></li>
+                    <li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239 site-menu-toggle"><a title="Contact" href="#contact">Contact</a></li>
                 </ul>
             </nav>
         </div>
@@ -73,9 +73,6 @@
                         <span></span>
                     </div>
                 </button>
-                <a class="site-header-btn" href="contact/index" target="_blank">
-                    <span>Book Today</span>
-                </a>
                 <!-- <a class="site-header-btn" href="contact.php">
                     <span class="material-icons">account_circle</span>
                     <span>Sign in</span>
