@@ -6439,17 +6439,17 @@
   }
   @media (min-width: 768px) {
     .hero .hero-main {
-      padding: 0px 0 100px 0;
+      padding: 290px 0 100px 0;
     }
   }
   @media (min-width: 1200px) {
     .hero .hero-main {
-      padding: 50px 0 100px 0;
+      padding: 200px 0 100px 0;
     }
   }
   @media (min-width: 1600px) {
     .hero .hero-main {
-      padding: 50px 0 100px 0;
+      padding: 200px 0 100px 0;
     }
   }
   .hero .hero-main .hero-subheading {
@@ -6996,7 +6996,8 @@
   }
   @media (min-width: 1200px) {
     * + .split {
-      margin-top: 150px;
+      /* margin-top: 150px; */
+      margin-top: 125px;
     }
   }
   @media (min-width: 1600px) {
