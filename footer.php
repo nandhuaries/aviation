@@ -2,7 +2,9 @@
     <div class="container text-center">
         <div class="site-footer-logos">
             <div class="site-footer-accreditations">
-                <img src="our-images/logo.png">
+                <a href="./">
+                    <img src="our-images/logo.png">
+                </a>
             </div>
         </div>
         <a class="site-footer-address" href="https://www.google.com/maps/place/Aries+Aviation+Services+FZE,+SAIF+Zone,+Sharjah+-+Q3-187+Sharjah+Airport+-+Sharjah+-+United+Arab+Emirates/@25.340951,55.485345,15z/data=!4m6!3m5!1s0x3e5f595a2dccdb0b:0x56bf3ce2b74207d!8m2!3d25.3409509!4d55.4853446!16s%2Fg%2F11h080hc6k?hl=en" target="_blank">
