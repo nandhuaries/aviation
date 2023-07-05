@@ -342,7 +342,7 @@
                         </a>
                     </li>
                     <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237 site-menu-toggle">
-                        <a href="#scrollTarget">
+                        <a href="index#scrollTarget">
                             <div class="arrow-link arrow-link-white">
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
@@ -357,7 +357,7 @@
                         </a>
                     </li>
                     <li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238 site-menu-toggle">
-                        <a href="#services">
+                        <a href="index#services">
                             <div class="arrow-link arrow-link-white">
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
@@ -372,7 +372,7 @@
                         </a>
                     </li>
                     <li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239 site-menu-toggle">
-                        <a href="#contact">
+                        <a href="index#contact">
                             <div class="arrow-link arrow-link-white">
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
@@ -386,7 +386,7 @@
                             </div>
                         </a>
                     </li>
-                    <!-- try arrow -->
+                    <!-- end try arrow -->
                 </ul>
             </nav>
         </div>
