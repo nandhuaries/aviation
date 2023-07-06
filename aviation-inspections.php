@@ -19,7 +19,7 @@
         <div class="row news-listings">
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="../procedure-for-authorising-offshore-helicopter-landing-areas/index.html">
+                <a class="news-card" href="helipad-inspections.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/1.jpg');">
                     </div>
                     <div class="news-card-content">
@@ -44,7 +44,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="../procedure-for-authorising-offshore-helicopter-landing-areas/index.html">
+                <a class="news-card" href="aerodrome-inspection.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/2.jpg');">
                     </div>
                     <div class="news-card-content">
@@ -69,7 +69,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="../procedure-for-authorising-offshore-helicopter-landing-areas/index.html">
+                <a class="news-card" href="air-freight.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/3.jpg');">
                     </div>
                     <div class="news-card-content">
@@ -94,7 +94,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="../procedure-for-authorising-offshore-helicopter-landing-areas/index.html">
+                <a class="news-card" href="dynamometer-testing.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/4.jpg');">
                     </div>
                     <div class="news-card-content">
