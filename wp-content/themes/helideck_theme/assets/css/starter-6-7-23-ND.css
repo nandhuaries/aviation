@@ -6444,8 +6444,7 @@
   }
   @media (min-width: 1200px) {
     .hero .hero-main {
-      /* padding: 200px 0 100px 0; */
-      padding: 85px 0 30px 0;
+      padding: 200px 0 100px 0;
     }
   }
   @media (min-width: 1600px) {
@@ -6716,25 +6715,6 @@
     background-color: #1B355D;
     transform: translateY(-50%);
   }
-  /* drone inspection new class by modifieng .split*/
-  .splitt {
-    position: relative;
-  }
-  .splitt::after {
-    content: '';
-    position: absolute;
-    z-index: 0;
-    left: 0;
-    top: 15% !important;
-    display: none;
-    width: 45%;
-    height: 31vw !important;
-    max-height: 100%;
-    margin-top: 50px;
-    background-color: #1B355D;
-    transform: translateY(-50%);
-  }
-  /* end drone inspection new class */
   @media (min-width: 992px) {
     .split::after {
       display: block;
@@ -6776,8 +6756,7 @@
   }
   @media (min-width: 992px) {
     .split .split-container .split-image {
-      /* padding-bottom: 60%; */
-      padding-bottom: 39%;
+      padding-bottom: 60%;
       box-shadow: none;
     }
   }
@@ -6951,7 +6930,7 @@
   }
   @media (min-width: 1200px) {
     .split + .split {
-      margin-top: 150px;
+      margin-top: 225px;
     }
   }
   @media (min-width: 1600px) {

@@ -124,55 +124,6 @@
     <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/jpeg" />
     <meta name="twitter:card" content="" />
-    <script type="application/ld+json" class="yoast-schema-graph">
-        {
-            "@context": "https://schema.org",
-            "@graph": [{
-                "@type": "WebPage",
-                "@id": "https://www.helidecks.org/",
-                "url": "https://www.helidecks.org/",
-                "name": "Helideck Professionals | Offshore & Onshore Services | HCA",
-                "isPartOf": {
-                    "@id": "https://www.helidecks.org/#website"
-                },
-                "datePublished": "2021-07-07T12:06:34+00:00",
-                "dateModified": "2022-12-13T09:48:55+00:00",
-                "description": "Specialising in helideck inspection and certification, consultancy, training & more, HCA is the premier service provider for offshore & onshore helidecks.",
-                "breadcrumb": {
-                    "@id": "https://www.helidecks.org/#breadcrumb"
-                },
-                "inLanguage": "en-GB",
-                "potentialAction": [{
-                    "@type": "ReadAction",
-                    "target": ["https://www.helidecks.org/"]
-                }]
-            }, {
-                "@type": "BreadcrumbList",
-                "@id": "https://www.helidecks.org/#breadcrumb",
-                "itemListElement": [{
-                    "@type": "ListItem",
-                    "position": 1,
-                    "name": "Home"
-                }]
-            }, {
-                "@type": "WebSite",
-                "@id": "https://www.helidecks.org/#website",
-                "url": "https://www.helidecks.org/",
-                "name": "Helideck Certification Agency Ltd",
-                "description": "Our Location. HCA&#039;s head office is in Aberdeen, however we have satellite offices in Norwich, Bergen and Abu Dhabi.",
-                "potentialAction": [{
-                    "@type": "SearchAction",
-                    "target": {
-                        "@type": "EntryPoint",
-                        "urlTemplate": "https://www.helidecks.org/?s={search_term_string}"
-                    },
-                    "query-input": "required name=search_term_string"
-                }],
-                "inLanguage": "en-GB"
-            }]
-        }
-    </script>
-    <!-- / Yoast SEO plugin. -->
 
 
     <script type="text/javascript">

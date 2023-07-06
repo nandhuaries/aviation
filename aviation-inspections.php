@@ -14,7 +14,8 @@
     <div class="hero-bg" style="background-image: url('our-images/services/inspection.jpg');"></div>
 </div>
 <!-- content -->
-<div class="px-container py-lg bg-body mt-5 mb-5" id="down">
+<!-- py-lg below div class -->
+<div class="px-container  bg-body mt-5 mb-5" id="down">
     <div class="container">
         <div class="row news-listings">
             <!-- card -->

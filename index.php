@@ -50,8 +50,9 @@
     <div class="container text-lg-center">
         <div class="row justify-content-lg-center">
             <div class="col-sm-10 col-md-9 col-lg-8 col-xl-7 col-2xl-6">
-                <!-- <h2 class="heading-xs animate-text" data-splitting>Our Sectors</h2> -->
-                <h3 class="heading-md animate-text" data-splitting>Services We Provide</h3>
+                <!-- <h2 class="heading-md animate-text" data-splitting>Our Sectors</h2> -->
+                <h1 class="home-intro-heading animate-text" data-splitting>Services We Provide</h1>
+                <!-- <h3 class="heading-md animate-text" data-splitting>Services We Provide</h3> -->
             </div>
         </div>
     </div>
@@ -117,26 +118,6 @@
                     <div class="image" style="background-image:url('our-images/services/service3.jpg');"></div>
                 </a>
             </li>
-            <!-- <li>
-                        <a class="sectors-listings-item" href="sectors/index.html#post-107">
-                            <div class="content">
-                                <div class="content-top">
-                                    <h3 class="heading-md">Super Yachts</h3>
-                                </div>
-                                <div class="arrow-link arrow-link-white">
-                                    <div class="icon">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
-                                            <path d="M20,0,34.142,5.858,40,20,34.142,34.142,20,40,5.858,34.142,0,20,5.858,5.858Z" transform="translate(0.304 40.303) rotate(-90)" fill="currentColor" stroke="#E8842D" stroke-miterlimit="10" stroke-width="0.561" />
-                                        </svg>
-                                        <span class="material-icons">arrow_forward_ios</span>
-                                    </div>
-                                    <span class="text">Find out more</span>
-                                </div>
-                            </div>
-                            <div class="image" style="background-image:url('wp-content/uploads/2021/07/Yacht.jpg');">
-                            </div>
-                        </a>
-                    </li> -->
         </ul>
     </div>
 </div>

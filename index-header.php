@@ -18,47 +18,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-B2975VQ6PK"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
 
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-B2975VQ6PK');
-    </script> -->
-    <!--
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="" />
-    <meta name="description" content="" />
-    <meta name="author" content=""/>
-    <meta name="format-detection" content="telephone=no">
-    -->
-
-    <!-- Google / Search Engine Tags
-<meta itemprop="name" content="">
-<meta itemprop="description" content="">
-<meta itemprop="image" content="https://www.helidecks.org/wp-content/themes/helideck_theme/assets/img/constants/img-socialcard.png">
--->
-
-    <!-- Facebook Meta Tags
-<meta property="og:url" content="">
-<meta property="og:type" content="website">
-<meta property="og:title" content="">
-<meta property="og:description" content="">
-<meta itemprop="image" content="https://www.helidecks.org/wp-content/themes/helideck_theme/assets/img/constants/img-socialcard.png">
--->
-
-    <!-- Twitter Meta Tags
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="">
-<meta name="twitter:description" content="">
-<meta itemprop="image" content="https://www.helidecks.org/wp-content/themes/helideck_theme/assets/img/constants/img-socialcard.png">
--->
 
     <!-- Mobile Specific -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -124,67 +84,7 @@
     <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/jpeg" />
     <meta name="twitter:card" content="" />
-    <script type="application/ld+json" class="yoast-schema-graph">
-        {
-            "@context": "https://schema.org",
-            "@graph": [{
-                "@type": "WebPage",
-                "@id": "https://www.helidecks.org/",
-                "url": "https://www.helidecks.org/",
-                "name": "Helideck Professionals | Offshore & Onshore Services | HCA",
-                "isPartOf": {
-                    "@id": "https://www.helidecks.org/#website"
-                },
-                "datePublished": "2021-07-07T12:06:34+00:00",
-                "dateModified": "2022-12-13T09:48:55+00:00",
-                "description": "Specialising in helideck inspection and certification, consultancy, training & more, HCA is the premier service provider for offshore & onshore helidecks.",
-                "breadcrumb": {
-                    "@id": "https://www.helidecks.org/#breadcrumb"
-                },
-                "inLanguage": "en-GB",
-                "potentialAction": [{
-                    "@type": "ReadAction",
-                    "target": ["https://www.helidecks.org/"]
-                }]
-            }, {
-                "@type": "BreadcrumbList",
-                "@id": "https://www.helidecks.org/#breadcrumb",
-                "itemListElement": [{
-                    "@type": "ListItem",
-                    "position": 1,
-                    "name": "Home"
-                }]
-            }, {
-                "@type": "WebSite",
-                "@id": "https://www.helidecks.org/#website",
-                "url": "https://www.helidecks.org/",
-                "name": "Helideck Certification Agency Ltd",
-                "description": "Our Location. HCA&#039;s head office is in Aberdeen, however we have satellite offices in Norwich, Bergen and Abu Dhabi.",
-                "potentialAction": [{
-                    "@type": "SearchAction",
-                    "target": {
-                        "@type": "EntryPoint",
-                        "urlTemplate": "https://www.helidecks.org/?s={search_term_string}"
-                    },
-                    "query-input": "required name=search_term_string"
-                }],
-                "inLanguage": "en-GB"
-            }]
-        }
-    </script>
-    <!-- / Yoast SEO plugin. -->
-
-
     <script type="text/javascript">
-        window._wpemojiSettings = {
-            "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",
-            "ext": ".png",
-            "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/",
-            "svgExt": ".svg",
-            "source": {
-                "concatemoji": "https:\/\/www.helidecks.org\/wp-includes\/js\/wp-emoji-release.min.js"
-            }
-        };
         /*! This file is auto-generated */
         ! function(e, a, t) {
             var n, r, o, i = a.createElement("canvas"),
