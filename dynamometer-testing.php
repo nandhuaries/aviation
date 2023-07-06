@@ -10,11 +10,11 @@
             </h1>
         </div>
     </div>
-    <a class="hero-scroll-btn" href="#heli"></a>
+    <a class="hero-scroll-btn" href="#dynam"></a>
     <div class="hero-bg" style="background-image: url('our-images/services/dynamo-meter/1.jpg');"></div>
 </div>
 <!-- contents -->
-<div class="split px-container bg-body" id="aero">
+<div class="split px-container bg-body" id="dynam">
     <div class="split-container">
         <div class="split-image" style="background-image: url('our-images/services/dynamo-meter/2.jpg');"></div>
         <div class="split-content">

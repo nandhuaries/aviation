@@ -119,7 +119,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="../procedure-for-authorising-offshore-helicopter-landing-areas/index.html">
+                <a class="news-card" href="oil-condition-monitoring.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/5.png');">
                     </div>
                     <div class="news-card-content">
@@ -144,7 +144,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="../procedure-for-authorising-offshore-helicopter-landing-areas/index.html">
+                <a class="news-card" href="air-carrier-audits.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/6.jpg');">
                     </div>
                     <div class="news-card-content">
@@ -169,7 +169,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="../procedure-for-authorising-offshore-helicopter-landing-areas/index.html">
+                <a class="news-card" href="aviation-safety-audits.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/7.jpg');">
                     </div>
                     <div class="news-card-content">
@@ -194,7 +194,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="../procedure-for-authorising-offshore-helicopter-landing-areas/index.html">
+                <a class="news-card" href="first-article-inspection.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/8.jpg');">
                     </div>
                     <div class="news-card-content">
@@ -219,7 +219,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="../procedure-for-authorising-offshore-helicopter-landing-areas/index.html">
+                <a class="news-card" href="operation-and-maintenance.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/9.jpg');">
                     </div>
                     <div class="news-card-content">

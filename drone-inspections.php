@@ -15,11 +15,11 @@
 </div>
 <!-- content section -->
 <div class="split px-container bg-body" id="post-104">
-    <div class="split-container">
+    <div class="split-container align-items-start">
         <div class="split-image" style="
               background-image: url('our-images/services/drone--.PNG');
             "></div>
-        <div class="split-content">
+        <div class="split-content ">
             <div class="split-content-container">
                 <div class="split-content-heading">
                     <h2 class="heading-lg animate-text" data-splitting>

@@ -1,4 +1,13 @@
 <?php include("header.php"); ?>
+<style>
+    /* .split::after {
+        top: 50%;
+        display: none;
+        width: 45%;
+        height: 54vw;
+        background-color: #1B355D;
+    } */
+</style>
 <div class="hero px-container bg-blue">
     <div class="container">
         <div class="hero-main">
@@ -16,7 +25,7 @@
 <div class="container mt-5 mb-5">
     <div class="row justify-content-center">
         <div class="col-10">
-            <div class="richtext richtext-fade-in text-justify" style="font-size: larger;">
+            <div class="richtext richtext-fade-in text-justify" >
                 <p>
                     In aircraft maintenance programme it is important to inspect the mechanical damage and
                     assess the extent of the repair work. But in schedule maintenance it is a difficult to
@@ -43,7 +52,7 @@
                     <div class="contact-box">
                         <h2 class="contact-box-heading">Inspection Scope</h2>
                         <div class="row">
-                            <div class="col-12 col-lg-6 col-md-6 col-xl-6" style="font-size: larger;">
+                            <div class="col-12 col-lg-6 col-md-6 col-xl-6" >
                                 <ul class="contact-details-links">
                                     <li>
                                         Flight Surface
@@ -56,7 +65,7 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="col-12 col-lg-6 col-md-6 col-xl-6" style="font-size: larger;">
+                            <div class="col-12 col-lg-6 col-md-6 col-xl-6" >
                                 <ul class="contact-details-links">
                                     <li>
                                         Fuselage
@@ -88,7 +97,7 @@
                 </div>
                 <div class="split-content-body">
                     <div class="richtext richtext-fade-in text-justify">
-                        <p style="font-size: x-large;">
+                        <p>
                             Eddy current uses electromagnetic induction to detect flaws in conductive materials.
                             Eddy-current testing can detect very small cracks in or near the surface of the material,
                             the surfaces need minimal preparation, and physically complex geometries can be investigated.
@@ -130,7 +139,7 @@
                     <h2 class="heading-lg animate-text" data-splitting>Magnetic Particle Inspections</h2>
                 </div>
                 <div class="split-content-body">
-                    <div class="richtext richtext-fade-in text-justify" style="font-size: x-large;">
+                    <div class="richtext richtext-fade-in text-justify">
                         <p><span style="font-weight: 400;">Magnetic Particle Inspection (MPI) is a non-destructive testing
                                 (NDT) process for detecting surface and subsurface discontinuities in ferrous materials such as iron,
                                 nickel, cobalt, and some of their alloys. The process puts a magnetic field into the part. The magnetic
@@ -155,7 +164,7 @@
                 </div>
                 <div class="split-content-body">
                     <div class="richtext richtext-fade-in text-justify">
-                        <p style="font-size: x-large;">
+                        <p>
                             Also called liquid penetrant inspection (LPI) or penetrant testing (PT), is a widely
                             applied and low-cost inspection method used to locate surface-breaking defects in all
                             non-porous materials (metals, plastics, or ceramics). The penetrant may be applied to
@@ -178,7 +187,7 @@
                     <h2 class="heading-lg animate-text" data-splitting>Ultrasonic Test</h2>
                 </div>
                 <div class="split-content-body">
-                    <div class="richtext richtext-fade-in text-justify" style="font-size: x-large;">
+                    <div class="richtext richtext-fade-in text-justify">
                         <p><span style="font-weight: 400;">Ultrasonic testing is a very short ultrasonic pulse-waves with
                                 center frequencies ranging from 0.1-15 MHz and occasionally up to 50 MHz are launched into materials
                                 to detect internal flaws or to characterize materials. The technique is also commonly used to determine
@@ -204,7 +213,7 @@
                 </div>
                 <div class="split-content-body">
                     <div class="richtext richtext-fade-in text-justify">
-                        <p style="font-size: x-large;">
+                        <p>
                             Radiography is one of the oldest and widely used nondestructive testing methods.
                             A radiograph is a photographic record produced by the passage of electromagnetic
                             radiation such as x-rays or gamma rays through an object onto a film. When film
@@ -231,7 +240,7 @@
                     <h2 class="heading-lg animate-text" data-splitting>Infrared Thermography</h2>
                 </div>
                 <div class="split-content-body">
-                    <div class="richtext richtext-fade-in text-justify" style="font-size: x-large;">
+                    <div class="richtext richtext-fade-in text-justify">
                         <p><span style="font-weight: 400;">Infrared and thermal methods for nondestructive are based
                                 on the principle that heat flow in a material is altered by the presence of some types of anomalies.
                                 These changes in heat flow cause localized temperature differences in the material. The imaging or
@@ -261,7 +270,7 @@
                 </div>
                 <div class="split-content-body">
                     <div class="richtext richtext-fade-in text-justify">
-                        <p style="font-size: x-large;">
+                        <p>
                             Several kinds of equipment can benefit from a borescope inspection: aircraft engine,
                             turbines, and other rotating equipment. Applied Technical Services offers borescope
                             inspections for a number of applications, including borescope inspections for aircraft
@@ -333,7 +342,7 @@
                     <h2 class="heading-lg animate-text" data-splitting>Barkhausen Noise Testing</h2>
                 </div>
                 <div class="split-content-body">
-                    <div class="richtext richtext-fade-in text-justify" style="font-size: x-large;">
+                    <div class="richtext richtext-fade-in text-justify">
                         <p><span style="font-weight: 400;">Barkhausen noise analysis is a non-destructive method
                                 involving the measurement of a noise like signal induced in a ferromagnetic material by
                                 an applied magnetic field. There are two main material characteristics that will directly
@@ -346,5 +355,5 @@
     </div>
 </div>
 <!-- end contents -->
-
+<div style="height: 100px;"></div>
 <?php include("footer.php"); ?>

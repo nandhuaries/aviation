@@ -1,4 +1,4 @@
-<?php include("header.php"); ?>
+<?php include("index-header.php"); ?>
 
     <div class="home-hero hero hero-full bg-blue">
         <div class="px-container">

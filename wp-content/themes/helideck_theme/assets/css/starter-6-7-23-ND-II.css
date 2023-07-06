@@ -6756,8 +6756,7 @@
   }
   @media (min-width: 992px) {
     .split .split-container .split-image {
-      /* padding-bottom: 60%; */
-      padding-bottom: 39%;
+      padding-bottom: 60%;
       box-shadow: none;
     }
   }
@@ -6931,7 +6930,7 @@
   }
   @media (min-width: 1200px) {
     .split + .split {
-      margin-top: 150px;
+      margin-top: 225px;
     }
   }
   @media (min-width: 1600px) {
