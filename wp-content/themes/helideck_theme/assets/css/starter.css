@@ -6715,6 +6715,25 @@
     background-color: #1B355D;
     transform: translateY(-50%);
   }
+  /* drone inspection new class by modifieng .split*/
+  .splitt {
+    position: relative;
+  }
+  .splitt::after {
+    content: '';
+    position: absolute;
+    z-index: 0;
+    left: 0;
+    top: 15% !important;
+    display: none;
+    width: 45%;
+    height: 31vw !important;
+    max-height: 100%;
+    margin-top: 50px;
+    background-color: #1B355D;
+    transform: translateY(-50%);
+  }
+  /* end drone inspection new class */
   @media (min-width: 992px) {
     .split::after {
       display: block;

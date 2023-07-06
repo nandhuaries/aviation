@@ -14,7 +14,7 @@
     <div class="hero-bg" style="background-image: url('our-images/services/service3.jpg');"></div>
 </div>
 <!-- content section -->
-<div class="split px-container bg-body" id="post-104">
+<div class="split splitt px-container bg-body" id="post-104">
     <div class="split-container align-items-start">
         <div class="split-image" style="
               background-image: url('our-images/services/drone--.PNG');
