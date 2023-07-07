@@ -201,15 +201,16 @@
             <div class="col-lg-7 offset-lg-1">
                 <form id="contactForm" method="post" action="contact-action.php" class="contact-form fade-in-item validate" autocomplete="off">
                     <?php
-                    if (isset($_GET['status']) && $_GET['status'] == 0) {
-
-                        echo " <font color=red ><h4 ><b><center>Please click on the reCAPTCHA box</center></b></h4></font>.";
-                    }
-
-                    if (isset($_GET['status']) && $_GET['status'] == 1) {
-
-                        echo " <font color=green ><h4><b><center>Your enquiry has been submitted successfuly</center></b></h4></font>.";
-                    } ?>
+				if(isset($_GET['status'])&&$_GET['status']==0){
+													
+				echo " <font color=red ><h4 ><b><center>Please click on the reCAPTCHA box</center></b></h4></font>.";    
+				}
+												
+				if(isset($_GET['status'])&&$_GET['status']==1){
+													
+				echo " <font color=green ><h4><b><center>Your enquiry has been submitted successfuly</center></b></h4></font>.";   
+											   
+				}?>
                     <input class="required" type="text" id="name" name="name" placeholder="Name">
                     <input class="required" type="email" id="email" name="email" placeholder="Email">
                     <input class="required" type="text" id="website" name="website" placeholder="Website">
@@ -222,7 +223,7 @@
                         </div>
                     </div>
                     <button type="submit" id="sub" name="sub" class="submit-btn">Submit</button>
-                    <button type="submit" id="waitmsg" name="waitmsg" style="display:none" class="submit-btn" disabled>Please Wait...</button>
+					<button type="submit" id="waitmsg" name="waitmsg" style="display:none" class="submit-btn" disabled>Please Wait...</button>
                     <h3 class="form-message">Thank you for contacting Aries Aviation! We will be in touch with you
                         shortly.</h3>
                 </form>
@@ -247,53 +248,54 @@
 
 <?php include("index-footer.php"); ?>
 <script type="text/javascript">
-    var validate = $("#contactForm").validate({
-        rules: {
-            name: "required",
+  
+   var validate =  $("#contactForm").validate({
+     rules: {
+                name:"required",
+               
+                email:"required",
+				 website:"required",
+				  contact:{required:true,
+							number:true},
+				   subject:"required",
+				    message:"required",
+ 
+  },
+            messages: {
+               name:"Please Enter Name",
+             
+               email:"Please Enter Email",
+			    website:"Please Enter Website",
+				 contact:"Please Enter Contact Number",
+				 subject:"Please Enter Subject",
+				  message:"Please Enter Message",
+              
+               
+                 },
+  errorPlacement: function(error, element) {
+                 
+                         error.insertAfter(element);
 
-            email: "required",
-            website: "required",
-            contact: {
-                required: true,
-                number: true
-            },
-            subject: "required",
-            message: "required",
-
-        },
-        messages: {
-            name: "Please Enter Name",
-
-            email: "Please Enter Email",
-            website: "Please Enter Website",
-            contact: "Please Enter Contact Number",
-            subject: "Please Enter Subject",
-            message: "Please Enter Message",
-
-
-        },
-        errorPlacement: function(error, element) {
-
-            error.insertAfter(element);
-
-        },
-        submitHandler: function(form) {
-
-            if (grecaptcha.getResponse() == "") {
-                alert("Are you a robot? Don't be shy, complete the reCaptcha! ?");
-                return false;
-            }
-            $('#sub').hide();
-            $('#waitmsg').show();
-            return true;
-
+                     },
+  submitHandler: function(form) 
+  { 
+  
+		if (grecaptcha.getResponse() == "") {
+            alert("Are you a robot? Don't be shy, complete the reCaptcha! ?");
+            return false;
         }
+          $('#sub').hide();
+          $('#waitmsg').show(); 
+          return true;
+        
+        }
+              
 
-
-    });
+              });
+			  
 </script>
 <style>
-    .error {
-        color: red;
-    }
+.error{
+	color:red;
+}
 </style>
