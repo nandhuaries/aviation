@@ -36,7 +36,7 @@
             <div class="richtext richtext-fade-in">
                 <div class="contact-boxes-item fade-in-item">
                     <div class="contact-box">
-                        <h2 class="contact-box-heading">Major International standards we follow</h2>
+                        <h3 class="contact-box-heading">Major International standards we follow</h3>
                         <div class="row">
                             <div class="col-12 col-lg-6 col-md-6 col-xl-6">
                                 <ul class="contact-details-links">

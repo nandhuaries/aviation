@@ -45,7 +45,8 @@
                     </div>
                     <!-- end try -->
                 </div>
-                <div class="split-content-body">
+                <!-- split-content-body below div original class -->
+                <div class="split-content-bodyy mt-3">
                     <div class="richtext richtext-fade-in">
                         <!-- <p>
                             Unmanned aerial vehicles (UAVs), or drones, are finding applications in an increasing number
@@ -61,7 +62,7 @@
                         </p> -->
                         <div class="contact-boxes-item fade-in-item">
                             <div class="contact-box">
-                                <h2 class="contact-box-heading">The use of drones offers advantages such as:</h2>
+                                <h3 class="contact-box-heading">The use of drones offers advantages such as:</h3>
                                 <ul class="contact-details-links">
                                     <li>
                                         Quick Overview And Evaluation Of The Condition
@@ -90,7 +91,7 @@
 
                         <div class="contact-boxes-item fade-in-item">
                             <div class="contact-box">
-                                <h2 class="contact-box-heading">Scope of inspections</h2>
+                                <h3 class="contact-box-heading">Scope of inspections</h3>
                                 <ul class="contact-details-links">
                                     <li>
                                         Over Head Transmission Line Drone IRT

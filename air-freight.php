@@ -104,9 +104,10 @@
         <div class="split-content">
             <div class="split-content-container">
                 <div class="split-content-heading">
-                    <h2 class="heading-lg animate-text" data-splitting>
+                <!-- //heading-lg// below h3 class -->
+                    <h3 class="animate-text" data-splitting>    
                         Our services include:
-                    </h2>
+                    </h3>
                 </div>
                 <div class="split-content-body">
                     <div class="richtext richtext-fade-in">
