@@ -9,7 +9,7 @@
                 HELIPAD AND HELIDECK INSPECTION SERVICES
             </h1>
             <div class="animate-text mt-3">
-                <p style="color:white"><a style="color: white;" href="./">HOME</a> <span class="m-2">|</span> <a href="aviation-inspections" style="color: white;"> AVIATION INSPECTIONS</a> <span class="m-2">|</span> HELIPAD AND HELIDECK INSPECTION SERVICES</p>
+                <p style="color:white"><a style="color: white;" href="aviation-inspections">HOME</a> <span class="m-2">|</span> <a href="aviation-inspections" style="color: white;"> AVIATION INSPECTIONS</a> <span class="m-2">|</span> HELIPAD AND HELIDECK INSPECTION SERVICES</p>
             </div>
         </div>
     </div>

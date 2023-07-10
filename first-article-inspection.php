@@ -8,6 +8,9 @@
             <h1 class="hero-heading hero-heading-sm animate-text" data-splitting>
                 FIRST ARTICLE INSPECTION
             </h1>
+            <div class="animate-text mt-3">
+                <p style="color:white"><a style="color: white;" href="./">HOME</a> <span class="m-2">|</span> <a href="aviation-inspections" style="color: white;"> AVIATION INSPECTIONS</a> <span class="m-2">|</span>FIRST ARTICLE INSPECTION</p>
+            </div>
         </div>
     </div>
     <a class="hero-scroll-btn" href="#air"></a>

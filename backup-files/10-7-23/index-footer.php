@@ -17,16 +17,16 @@
             <li><a href="tel:+971 50 9638995">+971 50 9638995</a></li>
             <li><a href="tel:+971 6 5503300">+971 6 5503300</a></li>
             <li><a href="mailto:aviation@ariesgroup.ae"><span class="__cf_email__">aviation@ariesgroup.ae</span></a>
-            <!-- <li><a href="mailto:renjith.r@ariesmar.com"><span class="__cf_email__">renjith.r@ariesmar.com</span></a> -->
+            <li><a href="mailto:renjith.r@ariesmar.com"><span class="__cf_email__">renjith.r@ariesmar.com</span></a>
             </li>
         </ul>
         <!-- <div class="site-footer-social">
-            <a href="" target="_blank"><ion-icon name="logo-linkedin"></ion-icon></a>
+            <a href="https://www.linkedin.com/company/helideck-certification-agency" target="_blank"><ion-icon name="logo-linkedin"></ion-icon></a>
         </div> -->
         <div class="site-footer-nav">
-            <a href="index#scrollTarget">About</a>
-            <a href="index#services">Services</a>
-            <a href="index#contact">Contact</a>
+            <a href="#scrollTarget">About</a>
+            <a href="#services">Services</a>
+            <a href="#contact">Contact</a>
         </div>
         <div class="site-footer-bottom">
             <div>&copy; <?php echo date("Y"); ?> Aries Aviation.</div>
@@ -58,8 +58,9 @@
 <!-- end recaptcha -->
 
 <!-- <script src="wp-content/themes/helideck_theme/assets/js/startere166.js?v=1.0.4"></script> -->
+
 <script type='text/javascript' src='wp-content/mmr/190840b0-1682938562.min.js' id='js-4-js'></script>
+
+
 </body>
-
-
 </html>

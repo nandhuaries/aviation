@@ -18,21 +18,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
-	<title>Aries Aviation Services</title>
+
 
     <!-- Mobile Specific -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta content="Aries Aviation Services" name="description">
-
-   <meta content="Aries Aviation Services" name="keywords">
-
-    <meta property="og:image" content="https://www.ariesaviationservices.com/new/our-images/oglogo.png"/>
-    <meta property="og:image:type" content="image/png"/>
-    <meta property="og:image:width" content="1012">
-<meta property="og:image:height" content="225">
-<meta property="og:type" content="website" />
-    <meta property="og:url" content="https://www.ariesaviationservices.com/">
-    <meta property="og:title" content="Aries Aviation Services"/>
     <link rel="shortcut icon" href="#" />
     
 
@@ -97,12 +86,12 @@
     <link rel='stylesheet' id='css-1-css' href='wp-content/mmr/c73812e7-1682938562.min.css' type='text/css' media='only screen and (max-width: 768px)' />
     <link rel='stylesheet' id='css-2-css' href='wp-content/mmr/e1ef1bd0-1682938562.min.css' type='text/css' media='all' />
     <script type='text/javascript' src='wp-content/mmr/ed6c13ad-1682938591.min.js' id='js-3-js'></script>
-    <!--<link rel="https://api.w.org/" href="wp-json/index.html" />-->
+    <link rel="https://api.w.org/" href="wp-json/index.html" />
     <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/7.json" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
-   <!-- <meta name="generator" content="WordPress 6.2" />
-    <meta name="generator" content="WooCommerce 7.6.1" />-->
+    <meta name="generator" content="WordPress 6.2" />
+    <meta name="generator" content="WooCommerce 7.6.1" />
     <link rel='shortlink' href='index.html' />
     <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed1ef0.json?url=https%3A%2F%2Fwww.helidecks.org%2F" />
     <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embedb7ad?url=https%3A%2F%2Fwww.helidecks.org%2F&amp;format=xml" />

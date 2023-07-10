@@ -17,7 +17,7 @@
             <li><a href="tel:+971 50 9638995">+971 50 9638995</a></li>
             <li><a href="tel:+971 6 5503300">+971 6 5503300</a></li>
             <li><a href="mailto:aviation@ariesgroup.ae"><span class="__cf_email__">aviation@ariesgroup.ae</span></a>
-            <!-- <li><a href="mailto:renjith.r@ariesmar.com"><span class="__cf_email__">renjith.r@ariesmar.com</span></a> -->
+            <li><a href="mailto:renjith.r@ariesmar.com"><span class="__cf_email__">renjith.r@ariesmar.com</span></a>
             </li>
         </ul>
         <!-- <div class="site-footer-social">

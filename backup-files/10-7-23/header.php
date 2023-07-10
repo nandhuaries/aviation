@@ -18,23 +18,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
-	<title>Aries Aviation Services</title>
 
     <!-- Mobile Specific -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta content="Aries Aviation Services" name="description">
-
-   <meta content="Aries Aviation Services" name="keywords">
-
-    <meta property="og:image" content="https://www.ariesaviationservices.com/new/our-images/oglogo.png"/>
-    <meta property="og:image:type" content="image/png"/>
-    <meta property="og:image:width" content="1012">
-<meta property="og:image:height" content="225">
-<meta property="og:type" content="website" />
-    <meta property="og:url" content="https://www.ariesaviationservices.com/">
-    <meta property="og:title" content="Aries Aviation Services"/>
     <link rel="shortcut icon" href="#" />
-    
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="our-images/favicon.png">
@@ -74,6 +61,7 @@
     <script type="text/javascript" src="../app.termly.io/embed.min.js" data-auto-block="off" data-website-uuid="3eec6a1a-6fe7-4ee6-9ce1-d29348c32ddf"></script>
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
+
     <style type="text/css">
         img.wp-smiley,
         img.emoji {
@@ -97,12 +85,12 @@
     <link rel='stylesheet' id='css-1-css' href='wp-content/mmr/c73812e7-1682938562.min.css' type='text/css' media='only screen and (max-width: 768px)' />
     <link rel='stylesheet' id='css-2-css' href='wp-content/mmr/e1ef1bd0-1682938562.min.css' type='text/css' media='all' />
     <script type='text/javascript' src='wp-content/mmr/ed6c13ad-1682938591.min.js' id='js-3-js'></script>
-    <!--<link rel="https://api.w.org/" href="wp-json/index.html" />-->
+    <link rel="https://api.w.org/" href="wp-json/index.html" />
     <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/7.json" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
-   <!-- <meta name="generator" content="WordPress 6.2" />
-    <meta name="generator" content="WooCommerce 7.6.1" />-->
+    <meta name="generator" content="WordPress 6.2" />
+    <meta name="generator" content="WooCommerce 7.6.1" />
     <link rel='shortlink' href='index.html' />
     <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed1ef0.json?url=https%3A%2F%2Fwww.helidecks.org%2F" />
     <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embedb7ad?url=https%3A%2F%2Fwww.helidecks.org%2F&amp;format=xml" />
@@ -125,12 +113,14 @@
         }
     </style>
     <!-- <script src="wp-content/themes/assets/js/startere166.js"></script> -->
-
-
-
 </head>
 
 <body class="home page-template page-template-front-page page-template-front-page-php page page-id-7 theme-helideck_theme woocommerce-no-js ">
+
+    <!-- Google Tag Manager (noscript) -->
+    <!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9DF2SR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
+    <!-- End Google Tag Manager (noscript) -->
+
     <!-- old nav code -->
 
     <!-- <div class="animsition">
@@ -173,7 +163,7 @@
                         </a>
                     </li>
                     <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237 site-menu-toggle">
-                        <a href="#scrollTarget">
+                        <a href="index#scrollTarget">
                             <div class="arrow-link arrow-link-white">
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
@@ -188,7 +178,7 @@
                         </a>
                     </li>
                     <li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238 site-menu-toggle">
-                        <a href="#services">
+                        <a href="index#services">
                             <div class="arrow-link arrow-link-white">
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
@@ -203,7 +193,7 @@
                         </a>
                     </li>
                     <li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239 site-menu-toggle">
-                        <a href="#contact">
+                        <a href="index#contact">
                             <div class="arrow-link arrow-link-white">
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
@@ -268,4 +258,5 @@
             </div>
         </div>
     </header>
+
     

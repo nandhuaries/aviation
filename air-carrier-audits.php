@@ -8,6 +8,9 @@
             <h1 class="hero-heading hero-heading-sm animate-text" data-splitting>
                 AIR CARRIER AUDITS
             </h1>
+            <div class="animate-text mt-3">
+                <p style="color:white"><a style="color: white;" href="./">HOME</a> <span class="m-2">|</span> <a href="aviation-inspections" style="color: white;"> AVIATION INSPECTIONS</a> <span class="m-2">|</span>AIR CARRIER AUDITS</p>
+            </div>
         </div>
     </div>
     <a class="hero-scroll-btn" href="#air"></a>
@@ -31,10 +34,10 @@
                             The IATA Operational Safety Audit (IOSA) Program is an internationally recognized and accepted evaluation system designed to assess the operational management and control systems of an airline.
                         </p>
                         <p>
-                        The IOSA audit creates a standard that is comparable on a world-wide basis, enabling and maximizing the joint use of audit reports. This has saved the industry over 6400 redundant audits and continues to lead to extensive cost-savings for IOSA participating airlines. All IATA members are IOSA registered and must remain registered to maintain IATA membership.
+                            The IOSA audit creates a standard that is comparable on a world-wide basis, enabling and maximizing the joint use of audit reports. This has saved the industry over 6400 redundant audits and continues to lead to extensive cost-savings for IOSA participating airlines. All IATA members are IOSA registered and must remain registered to maintain IATA membership.
                         </p>
                         <p>
-                        Whether you are preparing your IATA Operational Safety Audit (IOSA) registration for the first time or planning a renewal, our experienced, professional auditors can help.
+                            Whether you are preparing your IATA Operational Safety Audit (IOSA) registration for the first time or planning a renewal, our experienced, professional auditors can help.
                         </p>
                     </div>
                 </div>

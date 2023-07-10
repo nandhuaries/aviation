@@ -9,7 +9,7 @@
                 AERODROME / AIRPORT INSPECTION [RUNWAY, NAVIGATION LIGHTING]
             </h1>
             <div class="animate-text mt-3">
-                <p style="color:white"><a style="color: white;" href="./">HOME</a> <span class="m-2">|</span> <a href="aviation-inspections" style="color: white;"> AVIATION INSPECTIONS</a> <span class="m-2">|</span>AERODROME / AIRPORT INSPECTION</p>
+                <p style="color:white"><a style="color: white;" href="aviation-inspections">HOME</a> <span class="m-2">|</span> <a href="aviation-inspections" style="color: white;"> AVIATION INSPECTIONS</a> <span class="m-2">|</span> AERODROME / AIRPORT INSPECTION</p>
             </div>
         </div>
     </div>

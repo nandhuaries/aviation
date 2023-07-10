@@ -62,7 +62,7 @@
     <div class="container">
         <ul class="sectors-listings">
             <li>
-                <a class="sectors-listings-item" href="aviation-inspections">
+                <a class="sectors-listings-item" href="aviation-inspections.php">
                     <div class="content">
                         <div class="content-top">
                             <h3 class="heading-md">Aviation Inspections</h3>
@@ -81,7 +81,7 @@
                 </a>
             </li>
             <li>
-                <a class="sectors-listings-item" href="aviation-ndt">
+                <a class="sectors-listings-item" href="aviation-ndt.php">
                     <div class="content">
                         <div class="content-top">
                             <h3 class="heading-md">Aviation NDT</h3>
@@ -100,7 +100,7 @@
                 </a>
             </li>
             <li>
-                <a class="sectors-listings-item" href="drone-inspections">
+                <a class="sectors-listings-item" href="drone-inspections.php">
                     <div class="content">
                         <div class="content-top">
                             <h3 class="heading-md">Drone Inspections</h3>
@@ -176,21 +176,9 @@
                                         <span class="text">Mr. Renjithraj Raju<br>
                                             ASNT Level III<br>
                                             ISO 50001 Energy Management Lead Auditor<br>
-                                            Manager [ Aviation, PMS, Environmental ]
-                                        </span>
+                                            Manager [ Aviation, PMS, Environmental ]</span>
                                     </a>
                                 </li>
-                                <li class="d-flex">
-                                    <a href="mailto:renjith.r@ariesmar.com">
-                                        <span class="material-icons">mail</span>
-                                        <span class="text">
-                                        <a href="">
-                                            renjith.r@ariesmar.com</a>
-                                    </span>
-                                        </span>
-                                    </a>
-                                </li>
-                                
                                 <li>
                                     <a href="tel:+971 6 5503100">
                                         <span class="material-icons">fax</span>

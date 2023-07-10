@@ -20,7 +20,7 @@
         <div class="row news-listings">
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="helipad-inspections">
+                <a class="news-card" href="helipad-inspections.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/1.jpg');">
                     </div>
                     <div class="news-card-content">
@@ -45,7 +45,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="aerodrome-inspection">
+                <a class="news-card" href="aerodrome-inspection.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/2.jpg');">
                     </div>
                     <div class="news-card-content">
@@ -70,7 +70,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="air-freight">
+                <a class="news-card" href="air-freight.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/3.jpg');">
                     </div>
                     <div class="news-card-content">
@@ -95,7 +95,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="dynamometer-testing">
+                <a class="news-card" href="dynamometer-testing.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/4.jpg');">
                     </div>
                     <div class="news-card-content">
@@ -120,7 +120,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="oil-condition-monitoring">
+                <a class="news-card" href="oil-condition-monitoring.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/5.png');">
                     </div>
                     <div class="news-card-content">
@@ -145,7 +145,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="air-carrier-audits">
+                <a class="news-card" href="air-carrier-audits.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/6.jpg');">
                     </div>
                     <div class="news-card-content">
@@ -170,7 +170,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="aviation-safety-audits">
+                <a class="news-card" href="aviation-safety-audits.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/7.jpg');">
                     </div>
                     <div class="news-card-content">
@@ -195,7 +195,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="first-article-inspection">
+                <a class="news-card" href="first-article-inspection.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/8.jpg');">
                     </div>
                     <div class="news-card-content">
@@ -220,7 +220,7 @@
             <!-- end card -->
             <!-- card -->
             <div class="col-12 col-lg-4 col-md-4 mb-4">
-                <a class="news-card" href="operation-and-maintenance">
+                <a class="news-card" href="operation-and-maintenance.php">
                     <div class="news-card-image" style="background-image:url('our-images/services/avaition-insp/9.jpg');">
                     </div>
                     <div class="news-card-content">
