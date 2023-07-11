@@ -291,7 +291,7 @@
                     <div class="richtext richtext-fade-in">
                         <div class="contact-boxes-item fade-in-item">
                             <div class="contact-box">
-                                <h3 class="contact-box-heading">Borescope Inspection Benefits</h3>
+                                <h2 class="contact-box-heading">Borescope Inspection Benefits</h2>
                                 <ul class="contact-details-links">
                                     <li>
                                         Confined Space Navigation
