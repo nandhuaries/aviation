@@ -8202,8 +8202,8 @@
   @media (min-width: 1200px) {
     .py-lg {
       padding-top: 150px;
-      padding-bottom: 150px;
-      /* padding-bottom: 85px; */
+      /* padding-bottom: 150px; */
+      padding-bottom: 85px;
     }
   }
   @media (min-width: 1600px) {

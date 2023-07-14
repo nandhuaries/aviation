@@ -152,9 +152,9 @@
                         <div class="contact-box">
                             <h2 class="contact-box-heading">Find us</h2>
                             <div class="address">
-                                <div class="address-line">Saif Office Q1-04-024/A,<br>
-                                    P.O.Box 8337,<br>
-                                    Sharjah - U.A.E</div>
+                                <div class="address-line">Q3-187, PO Box 8337,<br>
+                                    Sharjah Airport Free Zone,<br>
+                                    Sharjah, United Arab Emirates</div>
                             </div>
                             <ul class="contact-details-links">
                                 <li>
@@ -184,13 +184,13 @@
                                     <a href="mailto:renjith.r@ariesmar.com">
                                         <span class="material-icons">mail</span>
                                         <span class="text">
-                                            <a href="">
-                                                renjith.r@ariesmar.com</a>
-                                        </span>
+                                        <a href="">
+                                            renjith.r@ariesmar.com</a>
+                                    </span>
                                         </span>
                                     </a>
                                 </li>
-
+                                
                                 <li>
                                     <a href="tel:+971 6 5503100">
                                         <span class="material-icons">fax</span>
@@ -215,15 +215,12 @@
                     <?php
                     if (isset($_GET['status']) && $_GET['status'] == 0) {
 
-                        echo '<script language="javascript">';
-                        echo 'alert("Please click on the reCAPTCHA box")';
-                        echo '</script>';
+                        echo " <font color=red ><h4 ><b><center>Please click on the reCAPTCHA box</center></b></h4></font>.";
                     }
+
                     if (isset($_GET['status']) && $_GET['status'] == 1) {
 
-                        echo '<script language="javascript">';
-                        echo 'alert("Your Enquiry has been submitted successfuly")';
-                        echo '</script>';
+                        echo " <font color=green ><h4><b><center>Your enquiry has been submitted successfuly</center></b></h4></font>.";
                     } ?>
                     <input class="required" type="text" id="name" name="name" placeholder="Name">
                     <input class="required" type="email" id="email" name="email" placeholder="Email">

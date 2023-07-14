@@ -9,15 +9,15 @@
         </div>
         <a class="site-footer-address" href="https://www.google.com/maps/place/Aries+Aviation+Services+FZE,+SAIF+Zone,+Sharjah+-+Q3-187+Sharjah+Airport+-+Sharjah+-+United+Arab+Emirates/@25.340951,55.485345,15z/data=!4m6!3m5!1s0x3e5f595a2dccdb0b:0x56bf3ce2b74207d!8m2!3d25.3409509!4d55.4853446!16s%2Fg%2F11h080hc6k?hl=en" target="_blank">
             <span class="address-line">
-                Q3-187, PO Box 8337,<br>
-                Sharjah Airport Free Zone,<br>
-                Sharjah, United Arab Emirates</span>
+                Saif Office Q1-04-024/A,<br>
+                P.O.Box 8337,<br>
+                Sharjah - U.A.E</span>
         </a>
         <ul class="site-footer-contacts">
             <li><a href="tel:+971 50 9638995">+971 50 9638995</a></li>
             <li><a href="tel:+971 6 5503300">+971 6 5503300</a></li>
             <li><a href="mailto:aviation@ariesgroup.ae"><span class="__cf_email__">aviation@ariesgroup.ae</span></a>
-            <!-- <li><a href="mailto:renjith.r@ariesmar.com"><span class="__cf_email__">renjith.r@ariesmar.com</span></a> -->
+                <!-- <li><a href="mailto:renjith.r@ariesmar.com"><span class="__cf_email__">renjith.r@ariesmar.com</span></a> -->
             </li>
         </ul>
         <!-- <div class="site-footer-social">
