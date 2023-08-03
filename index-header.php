@@ -227,7 +227,7 @@
         <div class="site-header-container px-container">
             <div class="site-header-logo">
                 <a href="index">
-                    <img src="our-images/logo.png">
+                    <img src="our-images/logo.png" style="width: 230px;">
                     <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 171 60">
                             <defs>
                                 <clipPath id="a">

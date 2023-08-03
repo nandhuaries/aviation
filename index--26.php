@@ -1,24 +1,4 @@
 <?php include("index-header.php"); ?>
-<style>
-    .fontSiz {
-        font-weight: 600;
-        color: white;
-        cursor: initial;
-        font-size: 17px;
-    }
-
-    /* @media only screen and (min-width: 0px) and (max-width: 992px) { */
-    @media only screen and (min-width: 0px) and (max-width: 1400px) {
-        .fontSiz {
-            font-size: 11px !important;
-        }
-        .fontSize{
-            font-size: 11px !important;
-        }
-    }
-</style>
-
-
 
 <div class="home-hero hero hero-full bg-blue">
     <div class="px-container">
@@ -173,7 +153,7 @@
                         <div class="contact-box">
                             <h2 class="contact-box-heading">Find us</h2>
                             <div class="address">
-                                <div class="address-line fontSize" style="font-weight: 600; color:white;">Saif Office Q1-04-024/A,<br>
+                                <div class="address-line" style="font-weight: 600; color:white;">Saif Office Q1-04-024/A,<br>
                                     P.O.Box 8337,<br>
                                     Sharjah - U.A.E</div>
                             </div>
@@ -193,11 +173,11 @@
                             <ul class="contact-details-links">
                                 <li>
                                     <a href="Javascript:void(0)">
-                                        <!-- <span class="material-icons">contacts</span> -->
-                                        <span class="text fontSiz">Mr. Renjithraj Raju<br>
+                                        <span class="material-icons">contacts</span>
+                                        <span class="text" style="font-weight: 600; color:white;">Mr. Renjithraj Raju<br>
                                             ASNT Level III<br>
                                             ISO 50001 Energy Management Lead Auditor<br>
-                                            Manager &nbsp;[ Aviation, PMS, Environmental ]
+                                            Manager [ Aviation, PMS, Environmental ]
                                         </span>
                                     </a>
                                 </li>
@@ -211,7 +191,7 @@
                                     <a href="mailto:renjith.r@ariesmar.com">
                                         <span class="material-icons">mail</span>
                                         <span>
-                                            <a href="mailto:renjith.r@ariesmar.com" class="text fontSize" style="font-weight: 600; color:white;">
+                                            <a href="mailto:renjith.r@ariesmar.com" class="text" style="font-weight: 600; color:white;">
                                                 renjith.r@ariesmar.com</a>
                                         </span>
                                         </span>
@@ -221,19 +201,19 @@
                                 <li>
                                     <a href="tel:+971 50 9638995">
                                         <span class="material-icons">phone</span>
-                                        <span class="text fontSize" style="font-weight: 600; color:white;">+971 50 9638995</span>
+                                        <span class="text" style="font-weight: 600; color:white;">+971 50 9638995</span>
                                     </a>
                                     <a href="tel:+971 6 5503300">
                                         <span class="material-icons">phone</span>
-                                        <span class="text fontSize" style="font-weight: 600; color:white;">+971 6 5503300</span>
+                                        <span class="text" style="font-weight: 600; color:white;">+971 6 5503300</span>
                                     </a><br>
-                                    <a href="tel:1318">
+                                    <a href="tel:+971 6 5503300">
                                         <span class="material-icons">phone</span>
-                                        <span class="text fontSize" style="font-weight: 600; color:white;">Extension : 1318</span>
+                                        <span class="text" style="font-weight: 600; color:white;">Extension : 1318</span>
                                     </a><br>
                                     <a href="tel:+971 6 5503100">
                                         <span class="material-icons">fax</span>
-                                        <span class="text fontSize" style="font-weight: 600; color:white;">+971 6 5503100</span>
+                                        <span class="text" style="font-weight: 600; color:white;">+971 6 5503100</span>
                                     </a>
                                 </li>
                             </ul>

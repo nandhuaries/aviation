@@ -1,5 +1,5 @@
 <?php
-$pagename = basename($_SERVER['PHP_SELF']);
+$pagename=basename($_SERVER['PHP_SELF']);
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 7 ]>
@@ -24,101 +24,92 @@ $pagename = basename($_SERVER['PHP_SELF']);
 
     <!-- Mobile Specific -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta property="og:image" content="https://www.ariesaviationservices.com/new/our-images/oglogo.png" />
-    <meta property="og:image:type" content="image/png" />
+	<meta property="og:image" content="https://www.ariesaviationservices.com/new/our-images/oglogo.png"/>
+    <meta property="og:image:type" content="image/png"/>
     <meta property="og:image:width" content="1012">
-    <meta property="og:image:height" content="225">
-    <meta property="og:type" content="website" />
+<meta property="og:image:height" content="225">
+<meta property="og:type" content="website" />
     <!-- <meta property="og:url" content="https://www.ariesaviationservices.com/">
     <meta property="og:title" content="Aries Aviation Services"/> -->
-    <?php if ($pagename == "aviation-inspections.php") { ?>
-        <title>Aviation Inspections | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Aviation Inspections" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/aviation-inspections.php">
+	<?php  if($pagename=="aviation-inspections.php") { ?> 
+    <title>Aviation Inspections | Services | Aries Aviation Services</title>
+    <meta property="og:title" content="Aviation Inspections" />
+  <meta property="og:url" content="https://www.ariesaviationservices.com/new/aviation-inspections.php">
 
 
-    <?php }
-    if ($pagename == "aviation-ndt.php") { ?>
-        <title>Aviation - NDT | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Aviation - NDT | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/aviation-ndt.php">
+<?php } if($pagename=="aviation-ndt.php") { ?> 
+    <title>Aviation - NDT | Services | Aries Aviation Services</title>
+    <meta property="og:title" content="Aviation - NDT | Aries Aviation Services" />
+    <meta property="og:url" 
+    content="https://www.ariesaviationservices.com/new/aviation-ndt.php">
 
-    <?php }
-    if ($pagename == "drone-inspections.php") { ?>
-        <title>Drone Inspections | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Drone Inspections | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/drone-inspections.php">
+<?php } if($pagename=="drone-inspections.php") { ?> 
+    <title>Drone Inspections | Services | Aries Aviation Services</title>
+    <meta property="og:title" content="Drone Inspections | Aries Aviation Services" />
+    <meta property="og:url" 
+    content="https://www.ariesaviationservices.com/new/drone-inspections.php">
 
-    <?php }
-    if ($pagename == "helipad-inspections.php") { ?>
-        <title>Helipad and Helideck Inspection Services | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Helipad and Helideck Inspection Services | Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/helipad-inspections.php">
-
-    <?php }
-    if ($pagename == "aerodrome-inspection.php") { ?>
-        <title>Aerodrome / Airport Inspection | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Aerodrome / Airport Inspection | Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/aerodrome-inspection.php">
+<?php } if($pagename=="helipad-inspections.php") { ?> 
+    <title>Helipad and Helideck Inspection Services | Services | Aries Aviation Services</title>
+    <meta property="og:title" content="Helipad and Helideck Inspection Services | Services | Aries Aviation Services" />
+    <meta property="og:url" content="https://www.ariesaviationservices.com/new/helipad-inspections.php">
+  
+  <?php } if($pagename=="aerodrome-inspection.php") { ?> 
+    <title>Aerodrome / Airport Inspection | Services | Aries Aviation Services</title>
+    <meta property="og:title" content="Aerodrome / Airport Inspection | Services | Aries Aviation Services" />
+    <meta property="og:url" content="https://www.ariesaviationservices.com/new/aerodrome-inspection.php">
 
 
-    <?php }
-    if ($pagename == "air-freight.php") { ?>
+    <?php } if($pagename=="air-freight.php") {?>
+	
+	<title>Air Freight Packaging and Dangerous Goods Dispatch | Services | Aries Aviation Services</title>
+    <meta property="og:title" content="Aerodrome / Airport Inspection | Services | Aries Aviation Services" />
+    <meta property="og:url" content="https://www.ariesaviationservices.com/new/air-freight.php">
+ 
+ <?php } if($pagename=="dynamometer-testing.php") {?>
+	<title>Engine Dynamometer Testing | Services | Aries Aviation Services</title>
+    <meta property="og:title" content="Engine Dynamometer Testing| Services | Aries Aviation Services" />
+    <meta property="og:url" content="https://www.ariesaviationservices.com/new/dynamometer-testing.php">
+ 
+ 	
+	<?php } if($pagename=="oil-condition-monitoring.php") {?>
+	<title>Oil Condition Monitoring | Services | Aries Aviation Services</title>
+    <meta property="og:title" content="Oil Condition Monitoring | Services | Aries Aviation Services" />
+    <meta property="og:url" content="https://www.ariesaviationservices.com/new/oil-condition-monitoring.php">
+ 
+	
+	<?php } if($pagename=="air-carrier-audits.php") {?>
+	<title>Air Carrier Audits | Services | Aries Aviation Services</title>
+    <meta property="og:title" content="Air Carrier Audits| Services | Aries Aviation Services" />
+    <meta property="og:url" content="https://www.ariesaviationservices.com/new/air-carrier-audits.php">
+ 
+ 
+	
+	<?php } if($pagename=="aviation-safety-audits.php") {?>
+	<title>Aviation Safety Audits | Services | Aries Aviation Services</title>
+    <meta property="og:title" content="Aviation Safety Audits | Services | Aries Aviation Services" />
+    <meta property="og:url" content="https://www.ariesaviationservices.com/new/aviation-safety-audits.php">
+ 
+	
+	<?php } if($pagename=="first-article-inspection.php") {?>
+	<title>First Article Inspection | Services | Aries Aviation Services</title>
+    <meta property="og:title" content="First Article Inspection | Services | Aries Aviation Services" />
+    <meta property="og:url" content="https://www.ariesaviationservices.com/new/first-article-inspection.php">
 
-        <title>Air Freight Packaging and Dangerous Goods Dispatch | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Aerodrome / Airport Inspection | Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/air-freight.php">
-
-    <?php }
-    if ($pagename == "dynamometer-testing.php") { ?>
-        <title>Engine Dynamometer Testing | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Engine Dynamometer Testing| Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/dynamometer-testing.php">
-
-
-    <?php }
-    if ($pagename == "oil-condition-monitoring.php") { ?>
-        <title>Oil Condition Monitoring | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Oil Condition Monitoring | Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/oil-condition-monitoring.php">
-
-
-    <?php }
-    if ($pagename == "air-carrier-audits.php") { ?>
-        <title>Air Carrier Audits | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Air Carrier Audits| Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/air-carrier-audits.php">
-
-
-
-    <?php }
-    if ($pagename == "aviation-safety-audits.php") { ?>
-        <title>Aviation Safety Audits | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Aviation Safety Audits | Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/aviation-safety-audits.php">
-
-
-    <?php }
-    if ($pagename == "first-article-inspection.php") { ?>
-        <title>First Article Inspection | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="First Article Inspection | Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/first-article-inspection.php">
-
-
-    <?php }
-    if ($pagename == "operation-and-maintenance.php") { ?>
-        <title>Operation and Maintenance Risk Management | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Operation and Maintenance Risk Management | Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/operation-and-maintenance.php">
-    <?php } ?>
-
-
-
-
-
-
-
-
+	
+	<?php } if($pagename=="operation-and-maintenance.php") {?>
+	<title>Operation and Maintenance Risk Management | Services | Aries Aviation Services</title>
+    <meta property="og:title" content="Operation and Maintenance Risk Management | Services | Aries Aviation Services" />
+    <meta property="og:url" content="https://www.ariesaviationservices.com/new/operation-and-maintenance.php">
+ <?php } ?>
+	
+	
+	
+	
+	
+	
+	
+	
     <link rel="shortcut icon" href="#" />
 
     <!-- Favicon -->
@@ -315,8 +306,7 @@ $pagename = basename($_SERVER['PHP_SELF']);
         <div class="site-header-container px-container">
             <div class="site-header-logo">
                 <a href="index">
-                    <img src="our-images/logo.png" style="width: 230px;">
-                    <!-- <img src="our-images/logo.png"> -->
+                    <img src="our-images/logo.png">
                     <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 171 60">
                             <defs>
                                 <clipPath id="a">
@@ -357,3 +347,5 @@ $pagename = basename($_SERVER['PHP_SELF']);
             </div>
         </div>
     </header>
+
+    

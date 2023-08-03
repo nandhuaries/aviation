@@ -1,6 +1,3 @@
-<?php
-$pagename = basename($_SERVER['PHP_SELF']);
-?>
 <!DOCTYPE html>
 <!--[if lt IE 7 ]>
 <html class="ie ie6" lang="en"> <![endif]-->
@@ -21,105 +18,23 @@ $pagename = basename($_SERVER['PHP_SELF']);
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
+	<title>Aries Aviation Services</title>
 
     <!-- Mobile Specific -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <meta property="og:image" content="https://www.ariesaviationservices.com/new/our-images/oglogo.png" />
-    <meta property="og:image:type" content="image/png" />
+	<meta content="Aries Aviation Services" name="description">
+
+   <meta content="Aries Aviation Services" name="keywords">
+
+    <meta property="og:image" content="https://www.ariesaviationservices.com/new/our-images/oglogo.png"/>
+    <meta property="og:image:type" content="image/png"/>
     <meta property="og:image:width" content="1012">
-    <meta property="og:image:height" content="225">
-    <meta property="og:type" content="website" />
-    <!-- <meta property="og:url" content="https://www.ariesaviationservices.com/">
-    <meta property="og:title" content="Aries Aviation Services"/> -->
-    <?php if ($pagename == "aviation-inspections.php") { ?>
-        <title>Aviation Inspections | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Aviation Inspections" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/aviation-inspections.php">
-
-
-    <?php }
-    if ($pagename == "aviation-ndt.php") { ?>
-        <title>Aviation - NDT | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Aviation - NDT | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/aviation-ndt.php">
-
-    <?php }
-    if ($pagename == "drone-inspections.php") { ?>
-        <title>Drone Inspections | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Drone Inspections | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/drone-inspections.php">
-
-    <?php }
-    if ($pagename == "helipad-inspections.php") { ?>
-        <title>Helipad and Helideck Inspection Services | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Helipad and Helideck Inspection Services | Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/helipad-inspections.php">
-
-    <?php }
-    if ($pagename == "aerodrome-inspection.php") { ?>
-        <title>Aerodrome / Airport Inspection | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Aerodrome / Airport Inspection | Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/aerodrome-inspection.php">
-
-
-    <?php }
-    if ($pagename == "air-freight.php") { ?>
-
-        <title>Air Freight Packaging and Dangerous Goods Dispatch | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Aerodrome / Airport Inspection | Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/air-freight.php">
-
-    <?php }
-    if ($pagename == "dynamometer-testing.php") { ?>
-        <title>Engine Dynamometer Testing | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Engine Dynamometer Testing| Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/dynamometer-testing.php">
-
-
-    <?php }
-    if ($pagename == "oil-condition-monitoring.php") { ?>
-        <title>Oil Condition Monitoring | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Oil Condition Monitoring | Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/oil-condition-monitoring.php">
-
-
-    <?php }
-    if ($pagename == "air-carrier-audits.php") { ?>
-        <title>Air Carrier Audits | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Air Carrier Audits| Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/air-carrier-audits.php">
-
-
-
-    <?php }
-    if ($pagename == "aviation-safety-audits.php") { ?>
-        <title>Aviation Safety Audits | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Aviation Safety Audits | Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/aviation-safety-audits.php">
-
-
-    <?php }
-    if ($pagename == "first-article-inspection.php") { ?>
-        <title>First Article Inspection | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="First Article Inspection | Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/first-article-inspection.php">
-
-
-    <?php }
-    if ($pagename == "operation-and-maintenance.php") { ?>
-        <title>Operation and Maintenance Risk Management | Services | Aries Aviation Services</title>
-        <meta property="og:title" content="Operation and Maintenance Risk Management | Services | Aries Aviation Services" />
-        <meta property="og:url" content="https://www.ariesaviationservices.com/new/operation-and-maintenance.php">
-    <?php } ?>
-
-
-
-
-
-
-
-
+<meta property="og:image:height" content="225">
+<meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.ariesaviationservices.com/">
+    <meta property="og:title" content="Aries Aviation Services"/>
     <link rel="shortcut icon" href="#" />
+    
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="our-images/favicon.png">
@@ -159,7 +74,6 @@ $pagename = basename($_SERVER['PHP_SELF']);
     <script type="text/javascript" src="../app.termly.io/embed.min.js" data-auto-block="off" data-website-uuid="3eec6a1a-6fe7-4ee6-9ce1-d29348c32ddf"></script>
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
-
     <style type="text/css">
         img.wp-smiley,
         img.emoji {
@@ -187,9 +101,9 @@ $pagename = basename($_SERVER['PHP_SELF']);
     <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/7.json" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
-    <!--<meta name="generator" content="WordPress 6.2" />
-    <meta name="generator" content="WooCommerce 7.6.1" />
-    <link rel='shortlink' href='index.html' />-->
+   <!-- <meta name="generator" content="WordPress 6.2" />
+    <meta name="generator" content="WooCommerce 7.6.1" />-->
+    <link rel='shortlink' href='index.html' />
     <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed1ef0.json?url=https%3A%2F%2Fwww.helidecks.org%2F" />
     <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embedb7ad?url=https%3A%2F%2Fwww.helidecks.org%2F&amp;format=xml" />
     <noscript>
@@ -211,14 +125,12 @@ $pagename = basename($_SERVER['PHP_SELF']);
         }
     </style>
     <!-- <script src="wp-content/themes/assets/js/startere166.js"></script> -->
+
+
+
 </head>
 
 <body class="home page-template page-template-front-page page-template-front-page-php page page-id-7 theme-helideck_theme woocommerce-no-js ">
-
-    <!-- Google Tag Manager (noscript) -->
-    <!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M9DF2SR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
-    <!-- End Google Tag Manager (noscript) -->
-
     <!-- old nav code -->
 
     <!-- <div class="animsition">
@@ -261,7 +173,7 @@ $pagename = basename($_SERVER['PHP_SELF']);
                         </a>
                     </li>
                     <li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237 site-menu-toggle">
-                        <a href="index#scrollTarget">
+                        <a href="#scrollTarget">
                             <div class="arrow-link arrow-link-white">
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
@@ -276,7 +188,7 @@ $pagename = basename($_SERVER['PHP_SELF']);
                         </a>
                     </li>
                     <li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238 site-menu-toggle">
-                        <a href="index#services">
+                        <a href="#services">
                             <div class="arrow-link arrow-link-white">
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
@@ -291,7 +203,7 @@ $pagename = basename($_SERVER['PHP_SELF']);
                         </a>
                     </li>
                     <li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239 site-menu-toggle">
-                        <a href="index#contact">
+                        <a href="#contact">
                             <div class="arrow-link arrow-link-white">
                                 <div class="icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.607 40.607">
@@ -315,8 +227,7 @@ $pagename = basename($_SERVER['PHP_SELF']);
         <div class="site-header-container px-container">
             <div class="site-header-logo">
                 <a href="index">
-                    <img src="our-images/logo.png" style="width: 230px;">
-                    <!-- <img src="our-images/logo.png"> -->
+                    <img src="our-images/logo.png">
                     <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 171 60">
                             <defs>
                                 <clipPath id="a">
@@ -357,3 +268,4 @@ $pagename = basename($_SERVER['PHP_SELF']);
             </div>
         </div>
     </header>
+    

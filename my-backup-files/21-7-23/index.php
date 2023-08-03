@@ -1,24 +1,4 @@
 <?php include("index-header.php"); ?>
-<style>
-    .fontSiz {
-        font-weight: 600;
-        color: white;
-        cursor: initial;
-        font-size: 17px;
-    }
-
-    /* @media only screen and (min-width: 0px) and (max-width: 992px) { */
-    @media only screen and (min-width: 0px) and (max-width: 1400px) {
-        .fontSiz {
-            font-size: 11px !important;
-        }
-        .fontSize{
-            font-size: 11px !important;
-        }
-    }
-</style>
-
-
 
 <div class="home-hero hero hero-full bg-blue">
     <div class="px-container">
@@ -34,8 +14,7 @@
     </div>
 
     <!-- <div class="hero-bg" style="background-image:url('wp-content/uploads/2021/07/hero-02-1.jpg');"></div> -->
-    <!-- <div class="hero-bg" style="background-image:url('our-images/banner.jpg');"></div> -->
-    <div class="hero-bg" style="background-image:url('our-images/banner-crop.webp');"></div>
+    <div class="hero-bg" style="background-image:url('our-images/banner.jpg');"></div>
 </div>
 
 <div class="home-clouds"></div>
@@ -52,7 +31,7 @@
             <h2 class="home-intro-heading animate-text" data-splitting>About us</h2>
             <div class="richtext richtext-fade-in text-justify">
                 <p>Aries Aviation Services FZE is based in Sharjah Airport Authority Free Zone, Sharjah.</p>
-                <p>Aries Group of companies is the recognized leader in delivering Advanced Inspection Services in the Oil & Gas industry. To serve the Aviation Industry, the new company has been initiated in SAIF Zone, Sharjah. The Company is having NOC from the General Civil Aviation Authority (GCAA) as per local regulations to serve the Aviation Industry. The company is having well-experienced personnel, who are qualified as per BS EN 4179 / PCN / NAS 410. The Company will be equipped with the latest inspection tools and technology to cater to the most advanced requirements of the Aviation Industry.</p>
+                <p>Aries Group of companies is the recognized leader in delivering Advanced Inspection Services in the Oil & Gas industry. To serve the Aviation Industry, the new company has been initiated in SAIF Zone, Sharjah. The Company is having approval from the General Civil Aviation Authority (GCAA) as per local regulations to serve the Aviation Industry. The company is having well-experienced personnel, who are qualified as per BS EN 4179 / PCN / NAS 410. The Company will be equipped with the latest inspection tools and technology to cater to the most advanced requirements of the Aviation Industry.</p>
             </div>
             <!-- <a class="arrow-link fade-in-item" href="javascript:void(0)">
                         <div class="icon">
@@ -173,7 +152,7 @@
                         <div class="contact-box">
                             <h2 class="contact-box-heading">Find us</h2>
                             <div class="address">
-                                <div class="address-line fontSize" style="font-weight: 600; color:white;">Saif Office Q1-04-024/A,<br>
+                                <div class="address-line">Saif Office Q1-04-024/A,<br>
                                     P.O.Box 8337,<br>
                                     Sharjah - U.A.E</div>
                             </div>
@@ -193,25 +172,19 @@
                             <ul class="contact-details-links">
                                 <li>
                                     <a href="Javascript:void(0)">
-                                        <!-- <span class="material-icons">contacts</span> -->
-                                        <span class="text fontSiz">Mr. Renjithraj Raju<br>
+                                        <span class="material-icons">contacts</span>
+                                        <span class="text">Mr. Renjithraj Raju<br>
                                             ASNT Level III<br>
                                             ISO 50001 Energy Management Lead Auditor<br>
-                                            Manager &nbsp;[ Aviation, PMS, Environmental ]
+                                            Manager [ Aviation, PMS, Environmental ]
                                         </span>
                                     </a>
                                 </li>
-                                <!-- <li>
-                                    <a href="javascript:void(0)">
-                                        <span class="material-icons">building</span>
-                                        <span class="text" style="font-weight: 600; color:white;"></span>
-                                    </a>
-                                </li> -->
                                 <li class="d-flex">
                                     <a href="mailto:renjith.r@ariesmar.com">
                                         <span class="material-icons">mail</span>
-                                        <span>
-                                            <a href="mailto:renjith.r@ariesmar.com" class="text fontSize" style="font-weight: 600; color:white;">
+                                        <span class="text">
+                                            <a href="">
                                                 renjith.r@ariesmar.com</a>
                                         </span>
                                         </span>
@@ -219,21 +192,17 @@
                                 </li>
 
                                 <li>
+                                    <a href="tel:+971 6 5503100">
+                                        <span class="material-icons">fax</span>
+                                        <span class="text">+971 6 5503100</span>
+                                    </a><br>
                                     <a href="tel:+971 50 9638995">
                                         <span class="material-icons">phone</span>
-                                        <span class="text fontSize" style="font-weight: 600; color:white;">+971 50 9638995</span>
+                                        <span class="text">+971 50 9638995</span>
                                     </a>
                                     <a href="tel:+971 6 5503300">
                                         <span class="material-icons">phone</span>
-                                        <span class="text fontSize" style="font-weight: 600; color:white;">+971 6 5503300</span>
-                                    </a><br>
-                                    <a href="tel:1318">
-                                        <span class="material-icons">phone</span>
-                                        <span class="text fontSize" style="font-weight: 600; color:white;">Extension : 1318</span>
-                                    </a><br>
-                                    <a href="tel:+971 6 5503100">
-                                        <span class="material-icons">fax</span>
-                                        <span class="text fontSize" style="font-weight: 600; color:white;">+971 6 5503100</span>
+                                        <span class="text">+971 6 5503300</span>
                                     </a>
                                 </li>
                             </ul>
